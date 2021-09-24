@@ -140,7 +140,7 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 
 
-![](https://files.catbox.moe/zixbmv.png)
+![]()
 
 ## ` `Artefactos<a name="Artefactos"/>
 
