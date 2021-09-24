@@ -127,7 +127,7 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
 |  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/10)	|![](https://files.catbox.moe/0vq85s.png)	|
-
+|  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/10)	|![](https://files.catbox.moe/0vq85s.png)	|
 
 
 
