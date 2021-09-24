@@ -65,7 +65,7 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
     
 ### ` `Diagrama Relacional del sistema<a name="relacion"/>
 
-![](https://files.catbox.moe/t1dtqi.png)
+![]()
     
 ### ` `Proposito del documento<a name="PROPOSITODOC"/>
 
