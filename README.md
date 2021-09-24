@@ -85,7 +85,7 @@ El proposito de este documento es poder brindar la informacion necesaria para qu
 
 ### ` `Alcance<a name="ALCANCE"/>
 
-* El alcance de este proyecto es poder facilitar el manejo de los tokens que se utilizan en los parques de diversiones y que los visitantes puedan acceder a la compra de estos de manera mas facil. Ademas de tener un mayor control de los juegos que mas se utilizan y los ingresos que generan.
+* El alcance de este proyecto es poder facilitar el manejo de productos de las agroveterinarias contando con un inventario facil de usar para el usuario y un apartado en el cual se podran realizar citas de los clientes.
 
 
 
@@ -111,13 +111,13 @@ La razon de elegir el metodo Scrum es por su organización ágil y conjunta del 
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
 ### ` `Fundamentación<a name="FUNDAMENTO"/>
 
-1. Sistema Billetera Electronica
+1. Sistema Inventario
 
-Programa en el que un visitante pueda comprar tokens de manera electronica con tarjetas de credito o debito. Pudiendo escoger los paquetes que se presentan.
+Poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria.
 
-2. Sistema Administracion de ingresos y estadisticas de juegos
+2. Sistema de Citas
 
-Programa que sea capaz de llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados.
+Poder llevar el control de las citas agendadas y poder agregarse o dar de baja cuando sea necesario.
 
 ### ` `Valores de trabajo<a name="VALORES"/>
 
