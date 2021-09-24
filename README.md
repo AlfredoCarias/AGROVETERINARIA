@@ -47,7 +47,7 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
 ### ` `Proposito del proyecto<a name="PROPOSITO"/>
 
 * Realizar un sistema capaz de poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria, contara con el control de citas por medio de un calendario que se encontrara en el sistema. También tendrá la posibilidad de generar reportes de ventas y productos en formato pdf.
-![imagen](https://user-images.githubusercontent.com/55295824/134607118-da91cf0d-5b2b-4d40-a2af-2edd6d04aa78.png)
+
 
 
 ### ` `Funcionalidades del sistema<a name="funcio"/>
