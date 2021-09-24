@@ -52,27 +52,17 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
 
 ### ` `Funcionalidades del sistema<a name="funcio"/>
 
-* Funcionalidad del sistema Cliente
+* Funcionalidad del sistema
 
-1. Funcionalidad "Mi Billetera"
+1. Funcionalidad "Inventario"
     En este modulo se encuentran la cantidad de tokens que tiene el usuario, tambien cuenta con la opcion de poder escanear ek codigo QR de los juegos para poder entrar, ademas de poder comprar mas tokens cuando a este se le acaben.
 
-2. Funcionalidad "Paquetes"
+2. Funcionalidad "Reportes"
     En este modulo se encuentran los paquetes que el usuario puede comprar para poder adquirir los tokens, contando con 3 tipos de paquetes: 10, 20 tokens y un paquete sin limite. Al momento de comprar el sistema te redirecciona al modulo de compra.
     
-3. Funcionalidad "Compra"
+3. Funcionalidad "Citas"
     En este modulo se encuentra el ingreso de las tarjetas de credito o debito para la compra de los paquetes de tokens. El usuario puede comprar los paquetes cuantas veces quiera.   
     
-* Funcionalidad del sistema Administrador
-
-1. Funcionalidad "Graficos"
-    En este modulo se encuentran las estadisticas mostradas en un grafico de barras en las que se muestran cuales son lo juegos mas utilizados y cuales son los juegos mas utilizados con el paquete sin limite.
-    
-2. Funcionalidad "Cierre de caja"
-    En este modulo se encuentra el cierre de caja lo cual es generado por medio de un PDF, en donde se muestra el ingreso diario de la caja.
-  
-3. Funcionalidad "Control de ingresos"  
-    En este modulo se encuentra el control de ingresos el cual se genera en formato PDF, muestra todos los ingresos que lleva el sistema.
 ### ` `Diagrama Relacional del sistema<a name="relacion"/>
 
 ![](https://files.catbox.moe/t1dtqi.png)
