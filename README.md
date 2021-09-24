@@ -126,16 +126,16 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
-|  Sprint#1 25/09/2021	| [Presentacion Inicial del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/7)	|![]()	|
-|  Sprint#1 25/09/2021	| [Planificacion de la Base de datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/10)	|![](https://files.catbox.moe/wq50fh.png)|
-|  Sprint#1 25/09/2021	| [Planificacion de Actividades](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/9)	|![]()	|
-|  Sprint#2 02/10/2021	| [Diseñar modulo de reportes](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/6)	|![]()	|
-|  Sprint#1 25/09/2021	| [Realizacion del Analisis del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/8)	|![]()	|
-|  Sprint#1 25/09/2021	| [Diseño de la Base de Datos (ER)](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/5)	|![]()	|
-|  Sprint#2 02/10/2021	| [Diseñar modulo de inventario](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/4)	|![]()	|
-|  Sprint#2 02/10/2021	| [Diseñar de Login de usuarios](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/3)	|![]()	|
-|  Sprint#1 25/09/2021	| [Diseñar Calendario para el sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/2)	|![]()	|
-|  Sprint#1 25/09/2021	| [Diseñar Menu del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)	|![]()	|
+|  Sprint#1 25/09/2021	| [Presentacion Inicial del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/7)	|![](https://files.catbox.moe/9iqyes.png)	|
+|  Sprint#1 25/09/2021	| [Planificacion de la Base de datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/10)	|![](https://files.catbox.moe/ovfhms.png)|
+|  Sprint#1 25/09/2021	| [Planificacion de Actividades](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/9)	|![](https://files.catbox.moe/pglluh.png)	|
+|  Sprint#2 02/10/2021	| [Diseñar modulo de reportes](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/6)	|![](https://files.catbox.moe/r4d7ms.png)	|
+|  Sprint#1 25/09/2021	| [Realizacion del Analisis del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/8)	|![](https://files.catbox.moe/6omezk.png)|
+|  Sprint#1 25/09/2021	| [Diseño de la Base de Datos (ER)](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/5)	|![](https://files.catbox.moe/h94vsi.png)	|
+|  Sprint#2 02/10/2021	| [Diseñar modulo de inventario](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/4)	|![](https://files.catbox.moe/071zkc.png)	|
+|  Sprint#2 02/10/2021	| [Diseñar de Login de usuarios](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/3)	|![](https://files.catbox.moe/p7716x.png)	|
+|  Sprint#1 25/09/2021	| [Diseñar Calendario para el sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/2)	|![](https://files.catbox.moe/ic6mzb.png)|
+|  Sprint#1 25/09/2021	| [Diseñar Menu del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)	|![](https://files.catbox.moe/75yxyz.png)	|
 
 
 
