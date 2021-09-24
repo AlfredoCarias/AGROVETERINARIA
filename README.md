@@ -30,10 +30,10 @@
 |  Integrante       | Carnet  	    | Rol  	        |
 |---	            |---	        |---	        |
 |  Alfredo Loyo 	| 18-3306 	    | Product Owner/Scrum Master	|
-|  Sobito        	|    	        | Desarrollador |
-|  Fulano        	|  	            | Desarrollador	|
-|  Sutano       	|    	        | Desarrollador |
-|  Mengano      	|    	        | Diseño        |
+|  "        	|    	"        | Desarrollador |
+|  "        	|  	     "       | Desarrollador	|
+|  "       	|    	 "       | Desarrollador |
+|  "      	|    	 "       | Diseño        |
 
 
 ## ` `Descripción de la metodología de trabajo<a name="DESCRIPCION"/>
