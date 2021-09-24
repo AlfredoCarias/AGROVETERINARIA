@@ -126,27 +126,35 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
-|  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/10)	|![](https://files.catbox.moe/0vq85s.png)	|
-|  Sprint#1 13/06/2021 	| [Presentacion inicial del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/9)|![](https://files.catbox.moe/p4vxnd.png) |
-|  Sprint#2 18/06/2021 	| [Diseño del programa](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/3)  	|   ![](https://files.catbox.moe/9xc0fh.png)	|
-|  Sprint#2 18/06/2021 	| [Planificacion de actividades](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/2)  	|   ![](https://files.catbox.moe/w1ibum.png)	|
-|  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/a2u2jf.png)	|
-|  Sprint#3 23/06/2021 	| [Diseño de interfaz del cliente](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/5)  	|   ![](https://files.catbox.moe/vo0lfv.png)	|
-|  Sprint#4 30/06/2021 	| [ Programacion de interfaz de cliente](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/8)  	|   ![](https://files.catbox.moe/5c42wm.png)	|
-|  Sprint#4 30/06/2021 	| [Programación interfaz de login](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/4)  	|   ![](https://files.catbox.moe/h0zdpf.png)	|
-|  Sprint#5 06/07/2021 	| [Diagrama relacional de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/14)  	|   ![](https://files.catbox.moe/alvkj8.png)	|
-|  Sprint#5 06/07/2021 	| [Planificacion de base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/13)  	|   ![](https://files.catbox.moe/7rgoua.png)	|
-|  Sprint#6 14/07/2021 	| [Programacion de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/7)  	|   ![](https://files.catbox.moe/ppzb2j.png)	|
-|  Sprint#7 20/07/2021 	| [Programacion del escaner del codigo QR](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/16)  	|   ![](https://files.catbox.moe/cnfrip.png)	|
-|  Sprint#7 20/07/2021 	| [Programacion de las tablas de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/15)  	|   ![](https://files.catbox.moe/sbajz3.png)	|
-|  Sprint#8 27/07/2021 	| [Pruebas del programa sin la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/19)  	|   ![](https://files.catbox.moe/90xtjf.png)	|
-|  Sprint#8 27/07/2021 	| [Pruebas de la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/18)  	|   ![](https://files.catbox.moe/5rqblw.png)	|
-|  Sprint#9 01/08/2021 	| [Conexion del programa con la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/17)  	|   ![](https://files.catbox.moe/he0uyh.png)	|
-|  Sprint#10 06/08/2021 	| [Pruebas del funcionamiento del programa con la base de datos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/20)  	|   ![](https://files.catbox.moe/a972ps.png)	|
-|  Sprint#11 13/08/2021 	| [Prueba final del funcionamiento de la base de datos y el programa](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/21)  	|   ![](https://files.catbox.moe/b6zdko.png)	|
-|  Sprint#11 13/08/2021 	| [Finalizacion del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/11)  	|   ![](https://files.catbox.moe/nalrv9.png)	|
-|  Sprint#12 20/08/2021 	| [Entrega del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/22)  	|   ![](https://files.catbox.moe/020r4v.png)	|
-|  Sprint#12 20/08/2021 	| [Entrega final del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/12)  	|   ![](https://files.catbox.moe/jjqhd3.png)	|
+|  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/8)	
+|![]()	|
+
+|  Sprint#1 13/06/2021 	| [Presentacion inicial del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/7)
+|![]() |
+
+|  Sprint#2 18/06/2021 	| [Diseño de la Base de Datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/5)  	
+|![]()	|
+
+|  Sprint#2 18/06/2021 	| [Planificacion de actividades](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/9)  	
+|![]()	|
+
+|  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/6)  	
+|![]()	|
+
+|  Sprint#3 23/06/2021 	| [Diseño del modulo de inventario](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/4)  	
+|![]()	|
+
+|  Sprint#5 06/07/2021 	| [Diseño del modulo del Login](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/3)  	
+|![]()	|
+
+|  Sprint#5 06/07/2021 	| [Planificacion de base de datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/10)  	
+|![]()	|
+
+|  Sprint#6 14/07/2021 	| [Diseño del Menu del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)  	
+|![]()	|
+
+
+
 
 ![](https://files.catbox.moe/zixbmv.png)
 
