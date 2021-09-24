@@ -126,32 +126,32 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 |  Sprints 	    | Actividad  |  Screenshot  	|
 |---	        |---	     |---	            |
-|  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/8)	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/8)	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
-|  Sprint#1 13/06/2021 	| [Presentacion inicial del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/7)
-|![](https://files.catbox.moe/zixbmv.png) |
+|  Sprint#1 13/06/2021 	| [Presentacion inicial del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/7)|
+![](https://files.catbox.moe/zixbmv.png) |
 
-|  Sprint#2 18/06/2021 	| [Diseño de la Base de Datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/5)  	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#2 18/06/2021 	| [Diseño de la Base de Datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/5)  	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
-|  Sprint#2 18/06/2021 	| [Planificacion de actividades](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/9)  	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#2 18/06/2021 	| [Planificacion de actividades](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/9)  	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
-|  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/6)  	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/6)  	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
-|  Sprint#3 23/06/2021 	| [Diseño del modulo de inventario](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/4)  	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#3 23/06/2021 	| [Diseño del modulo de inventario](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/4)  	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
-|  Sprint#5 06/07/2021 	| [Diseño del modulo del Login](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/3)  	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#5 06/07/2021 	| [Diseño del modulo del Login](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/3)  	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
-|  Sprint#5 06/07/2021 	| [Planificacion de base de datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/10)  	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#5 06/07/2021 	| [Planificacion de base de datos](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/10)  	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
-|  Sprint#6 14/07/2021 	| [Diseño del Menu del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)  	
-|![](https://files.catbox.moe/zixbmv.png)	|
+|  Sprint#6 14/07/2021 	| [Diseño del Menu del sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)  	|
+![](https://files.catbox.moe/zixbmv.png)	|
 
 
 
