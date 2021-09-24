@@ -128,7 +128,6 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |---	        |---	     |---	            |
 |  Sprint#1 13/06/2021	| [Realizacion del documento del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/10)	|![](https://files.catbox.moe/0vq85s.png)	|
 |  Sprint#1 13/06/2021 	| [Presentacion inicial del sistema](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/9)|![](https://files.catbox.moe/p4vxnd.png) |
-|  Sprint#1 13/06/2021 	| [Selección de requisitos](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/1)  	|   ![](https://files.catbox.moe/479ajd.png)	|
 |  Sprint#2 18/06/2021 	| [Diseño del programa](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/3)  	|   ![](https://files.catbox.moe/9xc0fh.png)	|
 |  Sprint#2 18/06/2021 	| [Planificacion de actividades](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/2)  	|   ![](https://files.catbox.moe/w1ibum.png)	|
 |  Sprint#3 23/06/2021 	| [Diseño de interfaz de administrador](https://github.com/AlfredoCarias/Examen-Final-Analisis-de-sistemas/issues/6)  	|   ![](https://files.catbox.moe/a2u2jf.png)	|
