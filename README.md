@@ -21,6 +21,8 @@
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
 * [Diseño del sistema](#DIAGRAMA)
+    - [Prototipo](#prototipo)
+    - [Casos de Uso](#casos)
     
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
