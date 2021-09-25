@@ -206,3 +206,5 @@ Responsabilidades del equipo de diseño
 
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
 ### ` `Prototipo<a name="pilasprint"/>
+![]()
+
