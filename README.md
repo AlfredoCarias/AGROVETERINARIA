@@ -21,8 +21,7 @@
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
 * [Diseño del sistema](#DIAGRAMA)
-    - [Diseño Cliente](#cliente)
-    - [Diseño Administrador](#admin)
+    
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
 
@@ -205,3 +204,4 @@ Responsabilidades del equipo de diseño
  - Realiza las actividades presentadas
  - Resolucion de dudas entre el equipo de desarrollo
 
+## ` `Demo<a name="DIAGRAMA"/>
