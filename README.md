@@ -54,14 +54,13 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
 * Funcionalidad del sistema
 
 1. Funcionalidad "Inventario"
-    En este modulo se encuentran la cantidad de tokens que tiene el usuario, tambien cuenta con la opcion de poder escanear ek codigo QR de los juegos para poder entrar, ademas de poder comprar mas tokens cuando a este se le acaben.
+    En este modulo se encuentran todos los productos que se encuentran en la base de datos.
 
 2. Funcionalidad "Reportes"
-    En este modulo se encuentran los paquetes que el usuario puede comprar para poder adquirir los tokens, contando con 3 tipos de paquetes: 10, 20 tokens y un paquete sin limite. Al momento de comprar el sistema te redirecciona al modulo de compra.
+    En este modulo se generaran los reportes de las ventas y del producto en stock del inventario.
     
 3. Funcionalidad "Citas"
-    En este modulo se encuentra el ingreso de las tarjetas de credito o debito para la compra de los paquetes de tokens. El usuario puede comprar los paquetes cuantas veces quiera.   
-    
+    En este modulo se encuentran el apartado para realizar,editar o eliminar citas utilizando fullcalendar.    
 ### ` `Diagrama Relacional del sistema<a name="relacion"/>
 
 ![]()
