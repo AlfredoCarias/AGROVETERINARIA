@@ -204,4 +204,5 @@ Responsabilidades del equipo de diseño
  - Realiza las actividades presentadas
  - Resolucion de dudas entre el equipo de desarrollo
 
-## ` `Demo<a name="DIAGRAMA"/>
+## ` `Diseño del sistema<a name="DIAGRAMA"/>
+### ` `Prototipo<a name="pilasprint"/>
