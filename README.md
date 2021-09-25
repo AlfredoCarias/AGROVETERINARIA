@@ -214,3 +214,6 @@ Responsabilidades del equipo de diseño
 ### ` `Casos de Uso<a name="casos"/>
 ![](https://files.catbox.moe/oiglp1.png)
 
+### ` `Diagrama de Entidad De Relacion<a name="casos"/>
+![](https://files.catbox.moe/rwi87p.png)
+
