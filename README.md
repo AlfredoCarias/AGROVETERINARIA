@@ -205,5 +205,5 @@ Responsabilidades del equipo de diseño
 
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
 ### ` `Casos de Uso<a name="pilasprint"/>
-![]()
+![](https://files.catbox.moe/jccvr6.png)
 
