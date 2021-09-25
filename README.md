@@ -204,6 +204,9 @@ Responsabilidades del equipo de diseño
  - Resolucion de dudas entre el equipo de desarrollo
 
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
+### ` `<Protoripo<a name="pilasprint"/>
+![](https://files.catbox.moe/3gjntz.png)
+
 ### ` `Casos de Uso<a name="pilasprint"/>
 ![](https://files.catbox.moe/oiglp1.png)
 
