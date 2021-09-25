@@ -204,8 +204,10 @@ Responsabilidades del equipo de diseño
  - Resolucion de dudas entre el equipo de desarrollo
 
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
-### ` `<Protoripo<a name="protipo"/>
+### ` `Protoripo<a name="protipo"/>
 ![](https://files.catbox.moe/3gjntz.png)
+![](https://files.catbox.moe/8mar2n.png)
+![](https://files.catbox.moe/okzs9s.png)
 
 ### ` `Casos de Uso<a name="casos"/>
 ![](https://files.catbox.moe/oiglp1.png)
