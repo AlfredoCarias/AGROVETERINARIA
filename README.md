@@ -206,7 +206,7 @@ Responsabilidades del equipo de diseño
  - Resolucion de dudas entre el equipo de desarrollo
 
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
-### ` `Prototipo<a name="protipo"/>
+### ` `Prototipo<a name="prototipo"/>
 ![](https://files.catbox.moe/3gjntz.png)
 ![](https://files.catbox.moe/8mar2n.png)
 ![](https://files.catbox.moe/okzs9s.png)
