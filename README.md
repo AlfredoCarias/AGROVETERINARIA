@@ -21,7 +21,7 @@
 * [Cuadros sobre el desarrollo del proyecto](#CUADROS)
 * [Desarrollo de sprint](#DESPRINT)
 * [Diseño del sistema](#DIAGRAMA)
-    - [Prototipo](#prototipo)
+    - [Diseño de Prototipo](#prototipo)
     - [Casos de Uso](#casos)
     
 
@@ -206,7 +206,7 @@ Responsabilidades del equipo de diseño
  - Resolucion de dudas entre el equipo de desarrollo
 
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
-### ` `Prototipo<a name="prototipo"/>
+### ` `Diseño de Prototipo<a name="prototipo"/>
 ![](https://files.catbox.moe/3gjntz.png)
 ![](https://files.catbox.moe/8mar2n.png)
 ![](https://files.catbox.moe/okzs9s.png)
