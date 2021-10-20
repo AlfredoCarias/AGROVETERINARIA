@@ -88,7 +88,7 @@ Al momento de realizar este sistema se propusieron los siguientes objetivos a cu
 
 Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta el ritmo de trabajo sostenible, ya que se adapta a los cambios de manera inmediata consiguiendo un ritmo constante, tanto en duración del sprint como de esfuerzo.
 
-![](https://files.catbox.moe/q1stsu.png)
+![](https://files.catbox.moe/thb0me.jpg)
 
 ### ` `¿En que consiste la metodologia Scrum?<a name="SCRUM"/>
 
@@ -104,7 +104,7 @@ La razon de elegir el metodo Scrum es por su organización ágil y conjunta del 
 ## ` `Analisis del Sistema<a name="analisis"/>
 Para el analisis de este sistema se escogio utilizar la arquitectura de capas ya que el sistema se esta desarrollando utilizando el modelo vista controlador(MVC) para la facilidad en que se manejan los datos y tener un mejor control en si del sistema al separarlo por modulos.
 
-![](https://files.catbox.moe/thb0me.jpg)
+![](https://files.catbox.moe/q1stsu.png)
 
 ### ` `¿En que consiste la Arquitectura de Capas?<a name="analisissec"/>
 La arquitectura basada en capas se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
