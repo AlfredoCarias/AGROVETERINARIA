@@ -62,11 +62,14 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
     En este modulo se generaran los reportes de las ventas y del producto en stock del inventario.
     
 3. Funcionalidad "Citas"
-    En este modulo se encuentran el apartado para realizar,editar o eliminar citas utilizando fullcalendar.    
-### ` `Diagrama Relacional del sistema<a name="relacion"/>
-* Realizar un sistema capaz de poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria, contara con el control de citas por medio de un calendario que se encontrara en el sistema. También tendrá la posibilidad de generar reportes de ventas y productos en formato pdf.
+    En este modulo se encuentran el apartado para realizar,editar o eliminar citas utilizando fullcalendar. 
     
-### ` `Objetivos o Metas<a name="PROPOSITODOC"/>
+### ` `Objetivos<a name="relacion"/>
+Al momento de realizar este sistema se propusieron los siguientes objetivos a cumplir:
+
+*adasdas
+    
+### ` `Proposito del documento<a name="PROPOSITODOC"/>
 
 * El proposito de este documento es poder brindar la informacion necesaria para que sea de mayor facilidad tanto para los empleados como para los visistantes entender el funcionamiento de cada una de las opciones que se encuentran en el programa y que no haya ningun inconveniente al momento de utilizarla.
 
