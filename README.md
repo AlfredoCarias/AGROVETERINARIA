@@ -107,8 +107,8 @@ La razon de elegir el metodo Scrum es por su organización ágil y conjunta del 
 
 
 ## ` `Analisis del Sistema<a name="analisis"/>
-### ` `Analisis Seleccionado<a name="analisissec"/>
-### ` `Analisis Seleccionado<a name="analisissec"/>
+### ` `¿En que consiste la Arquitectura de Capas?<a name="analisissec"/>
+### ` `¿Porque se escogio la Arquitectura de Capas?<a name="analisissec"/>
 
 
 
