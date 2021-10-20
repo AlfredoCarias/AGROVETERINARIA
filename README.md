@@ -106,6 +106,12 @@ Para el analisis de este sistema se escogio utilizar la arquitectura de capas ya
 
 ![](https://files.catbox.moe/ynzm7t.png)
 
+* Es la encargada de residir los datos y se encarga de acceder a los mismos. Esta se encuentra formada por uno o más 
+  gestores de bases de datos en los que se realizan el almacenamiento de los datos, reciben las solicitudes de 
+  almacenamiento o de la recuperación de información. Es necesario contar con personal capacitado para el desarrollo 
+  y construcción de los datos, ya que sin estos el sistema desarrollado no funcionara correctamente. 
+
+
 ### ` `¿En que consiste la Arquitectura de Capas?<a name="analisissec"/>
 La arquitectura basada en capas se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
 
