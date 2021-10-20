@@ -110,6 +110,14 @@ Para el analisis de este sistema se escogio utilizar la arquitectura de capas ya
   gestores de bases de datos en los que se realizan el almacenamiento de los datos, reciben las solicitudes de 
   almacenamiento o de la recuperación de información. Es necesario contar con personal capacitado para el desarrollo 
   y construcción de los datos, ya que sin estos el sistema desarrollado no funcionara correctamente. 
+  
+* En esta se gestiona lo que el usuario ve, es la presentación al usuario, le comunica y captura la información del 
+  usuario en el menor tiempo posible. Contiene la interfaz gráfica y debe de ser amigable y cómodo para el usuario; 
+  esta capa se comunica con la capa de negocio. 
+  
+* Esta capa residen los programas que se ejecutan, reciben las peticiones de usuario y envían las respuestas tras el 
+  proceso. Aquí se establecen todas las reglas a cumplirse. Se comunica con la capa de presentación, para recibir y 
+  enviar los resultados, y con la capa de datos, para poder solicitar almacenar o recuperar datos del gestor. 
 
 
 ### ` `¿En que consiste la Arquitectura de Capas?<a name="analisissec"/>
