@@ -13,6 +13,9 @@
     - [Por que se escogio la metodologia Scrum](#PORQUE)
 
 * [Analisis del Sistema](#analisis)
+    - [En que consiste la arquitectura de capas](#analisissec)
+    - [Por que se escogio la arquitectura de capas](#analisispor)
+
 * [Descripción General del proyecto](#GENERAL)
     - [Fundamentacion](#FUNDAMENTO)
     - [Valores de trabajo](#VALORES)
@@ -103,7 +106,9 @@ La razon de elegir el metodo Scrum es por su organización ágil y conjunta del 
 
 
 
-## ` `Analisis de Arquitectura de Capas<a name="analisis"/>
+## ` `Analisis del Sistema<a name="analisis"/>
+### ` `Analisis Seleccionado<a name="analisissec"/>
+### ` `Analisis Seleccionado<a name="analisissec"/>
 
 
 
