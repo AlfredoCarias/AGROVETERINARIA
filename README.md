@@ -88,7 +88,7 @@ Al momento de realizar este sistema se propusieron los siguientes objetivos a cu
 
 Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta el ritmo de trabajo sostenible, ya que se adapta a los cambios de manera inmediata consiguiendo un ritmo constante, tanto en duración del sprint como de esfuerzo.
 
-![](https://files.catbox.moe/thb0me.jpg)
+![](https://files.catbox.moe/q1stsu.png)
 
 ### ` `¿En que consiste la metodologia Scrum?<a name="SCRUM"/>
 
