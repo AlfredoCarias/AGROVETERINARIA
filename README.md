@@ -8,7 +8,7 @@
     - [Objetivos](#objetivos)
     - [Proposito del documento](#PROPOSITODOC)
     - [Alcance](#ALCANCE)
-* [Metodologia seleccionada](#METODOLOGIA)
+* [Metodologia Agil](#METODOLOGIA)
     - [En que consiste la metodologia Scrum](#SCRUM)
     - [Por que se escogio la metodologia Scrum](#PORQUE)
 * [Descripción General del proyecto](#GENERAL)
