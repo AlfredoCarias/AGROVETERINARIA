@@ -23,8 +23,6 @@
 * [Artefactos](#Artefactos)
     - [Pila de producto](#pilaprod)
     - [Pila de sprint](#pilasprint)
-* [Cuadros sobre el desarrollo del proyecto](#CUADROS)
-* [Desarrollo de sprint](#DESPRINT)
 * [Diseño del sistema](#DIAGRAMA)
     - [Diseño de Prototipo](#prototipo)
     - [Casos de Uso](#casos)
@@ -90,14 +88,11 @@ Al momento de realizar este sistema se propusieron los siguientes objetivos a cu
 
 Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta el ritmo de trabajo sostenible, ya que se adapta a los cambios de manera inmediata consiguiendo un ritmo constante, tanto en duración del sprint como de esfuerzo.
 
+![](https://files.catbox.moe/thb0me.jpg)
+
 ### ` `¿En que consiste la metodologia Scrum?<a name="SCRUM"/>
 
 Es un marco de trabajo o framework utilizado para optimizar el trabajo de equipo en proyectos complejos y monitorear la evolución del producto manteniendo como enfoque la calidad y los tiempos estipulados de entrega. Este método de trabajo se realiza por ciclos de actividades planificadas previamente, las cuales son conocidas como “sprints”, y está compuesta por una planificación de tareas y plazos establecidos de inicio y fin.
-
-![](https://files.catbox.moe/thb0me.jpg)
-
-
-
 
 
 ### ` `¿Porque se escogio el metodo Scrum?<a name="PORQUE"/>
@@ -107,9 +102,15 @@ La razon de elegir el metodo Scrum es por su organización ágil y conjunta del 
 
 
 ## ` `Analisis del Sistema<a name="analisis"/>
-### ` `¿En que consiste la Arquitectura de Capas?<a name="analisissec"/>
-### ` `¿Porque se escogio la Arquitectura de Capas?<a name="analisissec"/>
+Para el analisis de este sistema se escogio utilizar la arquitectura de capas ya que el sistema se esta desarrollando utilizando el modelo vista controlador(MVC) para la facilidad en que se manejan los datos y tener un mejor control en si del sistema al separarlo por modulos.
 
+![](https://files.catbox.moe/thb0me.jpg)
+
+### ` `¿En que consiste la Arquitectura de Capas?<a name="analisissec"/>
+La arquitectura basada en capas se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
+
+### ` `¿Porque se escogio la Arquitectura de Capas?<a name="analisissec"/>
+Se escogio debido a que es fácil testear cada capa por separado debido a la separación clara de responsabilidades que existe entre ellas. Y al momento de hacer un cambio, solo debe impactar a la capa responsable y no a todas. 
 
 
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
