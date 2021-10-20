@@ -5,7 +5,7 @@
     - [Introduccion](#INTRODUCCION)
     - [Proposito del proyecto](#PROPOSITO)
     - [Funcionalidades del sistema](#funcio)
-    - [Diagrama Relacional del sistema](#relacion)
+    - [Objetivos](#objetivos)
     - [Proposito del documento](#PROPOSITODOC)
     - [Alcance](#ALCANCE)
 * [Metodologia seleccionada](#METODOLOGIA)
@@ -64,10 +64,10 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
 3. Funcionalidad "Citas"
     En este modulo se encuentran el apartado para realizar,editar o eliminar citas utilizando fullcalendar. 
     
-### ` `Objetivos<a name="relacion"/>
+### ` `Objetivos<a name="objetivos"/>
 Al momento de realizar este sistema se propusieron los siguientes objetivos a cumplir:
 
-*adasdas
+* adasdas
     
 ### ` `Proposito del documento<a name="PROPOSITODOC"/>
 
