@@ -11,6 +11,8 @@
 * [Metodologia Agil](#METODOLOGIA)
     - [En que consiste la metodologia Scrum](#SCRUM)
     - [Por que se escogio la metodologia Scrum](#PORQUE)
+
+* [Analisis del Sistema](#analisis)
 * [Descripción General del proyecto](#GENERAL)
     - [Fundamentacion](#FUNDAMENTO)
     - [Valores de trabajo](#VALORES)
@@ -98,6 +100,11 @@ Es un marco de trabajo o framework utilizado para optimizar el trabajo de equipo
 ### ` `¿Porque se escogio el metodo Scrum?<a name="PORQUE"/>
 
 La razon de elegir el metodo Scrum es por su organización ágil y conjunta del proyecto, siendo capaz de responder a posibles contratiempos que aparecen en su desarrollo. Asimismo, tiene por objetivo utilizar el producto lo antes posible, mientras se va mejorando.
+
+
+
+## ` `Analisis de Arquitectura de Capas<a name="analisis"/>
+
 
 
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
