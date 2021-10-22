@@ -144,7 +144,7 @@ Es un lenguaje de programación de uso general que se adapta especialmente al de
 
 * **MySQL:**
 
-Es un sistema de gestión de bases de datos relacionales (RDBMS) de código abierto respaldado por Oracle y basado en el lenguaje de consulta estructurado (SQL). ![](https://files.catbox.moe/ispxlk.png)
+Es un sistema de gestión de bases de datos relacionales (RDBMS) de código abierto respaldado por Oracle y basado en el lenguaje de consulta estructurado. ![](https://files.catbox.moe/ispxlk.png)
 
 
 * **Java Script:**
