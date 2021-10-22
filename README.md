@@ -4,7 +4,6 @@
 * [Descripción de la metodología de trabajo](#DESCRIPCION)
     - [Introduccion](#INTRODUCCION)
     - [Proposito del proyecto](#PROPOSITO)
-    - [Funcionalidades del sistema](#funcio)
     - [Objetivos](#objetivos)
     - [Proposito del documento](#PROPOSITODOC)
     - [Alcance](#ALCANCE)
@@ -18,7 +17,7 @@
 
 * [Descripción General del proyecto](#GENERAL)
     - [Herramientas y Tecnologias](#herramientas)
-    - [Fundamentacion Modulos](#FUNDAMENTO)
+    - [Funcionalidades del sistema](#FUNDAMENTO)
     - [Valores de trabajo](#VALORES)
 * [Calendario de actividades](#ACTIVIDADES)
 * [Artefactos](#Artefactos)
@@ -54,19 +53,6 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
 * Realizar un sistema capaz de poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria, contara con el control de citas por medio de un calendario que se encontrara en el sistema. También tendrá la posibilidad de generar reportes de ventas y productos en formato pdf.
 
 
-
-### ` `Funcionalidades del sistema<a name="funcio"/>
-
-* Funcionalidad del sistema
-
-1. Funcionalidad "Inventario"
-    En este modulo se encuentran todos los productos que se encuentran en la base de datos.
-
-2. Funcionalidad "Reportes"
-    En este modulo se generaran los reportes de las ventas y del producto en stock del inventario.
-    
-3. Funcionalidad "Citas"
-    En este modulo se encuentran el apartado para realizar,editar o eliminar citas utilizando fullcalendar. 
     
 ### ` `Objetivos<a name="objetivos"/>
 Al momento de realizar este sistema se propusieron los siguientes objetivos a cumplir:
@@ -162,7 +148,7 @@ Es plugin jQuery que proporciona un completo calendario que se puede alimentar p
 Es una librería para generar códigos de barras en elementos HTML usando JavaScript.
 ![](https://files.catbox.moe/qtcxto.jpg)
 
-### ` `Fundamentación de Modulos<a name="FUNDAMENTO"/>
+### ` `Funcionalidades del sistema<a name="FUNDAMENTO"/>
 
 #### ` ` Template Administrador:
 
@@ -216,6 +202,10 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 1. Responsabilidad 
 2. Disciplina 
 5. Transparencia
+
+
+## ` `Tipos de Usuarios<a name="ACTIVIDADES"/>
+
 
 
 ## ` `Cronograma de actividades<a name="ACTIVIDADES"/>
