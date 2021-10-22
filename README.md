@@ -208,9 +208,11 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 
 ## ` `Tipos de Usuarios<a name="users"/>
-|  No.    | Tipo de usuario  |  Descripcion  	|
-|---	  |---	             |---	            |
-
+|  No.    | Tipo de usuario  |  Descripcion  	                                                                                      |
+|---	  |---	             |---	                                                                                                  |
+|1	      |Administrador	 |Se encarga de gestionar los usuario y sus privilegios, asi como el control total del sistema.           |
+|2	      |Cliente	         |Este usuario solo puede visualizar contenidos.                                                          |
+|3	      |Empleado	         |Tiene los privilegios de poder agregar citas y vender productos                                         |
 
 
 ## ` `Cronograma de actividades<a name="ACTIVIDADES"/>
