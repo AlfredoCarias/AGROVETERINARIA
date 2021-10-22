@@ -94,7 +94,7 @@ La razon de elegir el metodo Scrum es por su organización ágil y conjunta del 
 
 Para el analisis de este sistema se escogio utilizar la arquitectura de capas ya que el sistema se esta desarrollando utilizando el modelo vista controlador(MVC) para la facilidad en que se manejan los datos y tener un mejor control en si del sistema al separarlo por modulos.
 
-![](https://files.catbox.moe/ynzm7t.png) ![](https://files.catbox.moe/ynzm7t.png)
+![](https://files.catbox.moe/ynzm7t.png) ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseguridad.cicese.mx%2Fdutic%2F23%2FPorque-utilizar-Modelo-Vista-Controlador-(MVC)-en-tus-proyectos&psig=AOvVaw0tQqmTYwJSqPPnvb0fwbvI&ust=1634959875864000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDBuqeK3fMCFQAAAAAdAAAAABAD)
 
   
 ### **Capa de Presentacion**
