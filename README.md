@@ -135,7 +135,7 @@ Se escogio debido a que es fácil testear cada capa por separado debido a la sep
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
 ### ` `Fundamentación de Modulos<a name="FUNDAMENTO"/>
 
-#### ` ` Administrador:
+#### ` ` Template Administrador:
 
 ##### **1. Modulo Dashboard**
 
@@ -160,6 +160,22 @@ En este modulo se puede realizar las ventas de los productos que se encuentran e
 ##### **6. Modulo Citas**
 
 En este modulo se encuentra el apartado de citas agendadas y calendario. En donde citas agendadas muestra una tabla con la infomacion de las citas que ya se encuentran agendadas en el calendario. En el apartado calendario se puede vizualizar de mejor manera las citas que estan agendadas.
+
+#### ` ` Template Cliente:
+
+En esta interfaz se encuentran los modulos que el cliente podra visualizar.
+
+##### **1. Modulo Inicio**
+
+En este modulo se encuentra el inicio de la pagina con informacion de contacto en el footer y varias secciones en el navbar.
+
+##### **2. Modulo Productos**
+
+En este modulo se encuentran a visualizacion para los clientes de los productos que se encuentran disponibles en el sistema. Pudiendo solo visualizar ya que no se encuentra habilitado un carrito de compras para este modulo.
+
+##### **3. Modulo Nosotros**
+
+En este modulo se encuentra la informacion de la tienda, como su mision y vision e historia.
 
 ### ` `Valores de trabajo<a name="VALORES"/>
 
