@@ -17,6 +17,7 @@
     - [Por que se escogio la arquitectura de capas](#analisispor)
 
 * [Descripción General del proyecto](#GENERAL)
+    - [Herramientas y Tecnologias](#herramientas)
     - [Fundamentacion Modulos](#FUNDAMENTO)
     - [Valores de trabajo](#VALORES)
 * [Calendario de actividades](#ACTIVIDADES)
