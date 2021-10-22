@@ -199,9 +199,10 @@ Informacion
 
 Es donde se presenta los requisitos del sistema o del usuarion en esta metodologia
 
-Billetera electronica
+Agroveterinaria
 
-Sistema en el que un visitante pueda comprar tokens de manera electronica con tarjetas de credito o debito. Pudiendo escoger los paquetes que se presentan.
+Sistema capaz de poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria, contara con el control de citas por medio de un calendario que se encontrara en el sistema. ![imagen](https://user-images.githubusercontent.com/55295824/138377304-de22e08d-8e80-4128-b89b-14d2aaa20862.png)
+
 
 
 Sistema Administracion de ingresos y estadisticas de juegos
