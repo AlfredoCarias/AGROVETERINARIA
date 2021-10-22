@@ -137,27 +137,27 @@ Se escogio debido a que es fácil testear cada capa por separado debido a la sep
 
 #### ` ` Administrador:
 
-1. Modulo Dashboard
+##### **1. Modulo Dashboard**
 
 En este modulo se muestra la cantidad de usuarios y productos que estan activos en la base de datos.
 
-2. Modulo Usuarios
+##### **2. Modulo Usuarios**
 
 En este modulo se encuentra la tabla con la informacion y CRUD de los usuarios y roles de los mismos. En el apartado de usuarios se ve, crea, edita o elimina un usuarios teniendo la posibilidad de otorgar un tipo de rol. En el apartado de roles se puede ver,crear,editar o eliminar un rol, dandoles permisos especiales a cada rol mediante una interfaz.En ambos apartado se pueden generar reportes en formato PDF.
 
-3. Modulo CLiente
+##### **3. Modulo CLiente**
 
 En este modulo se encuentra la tabla con la informacion y CRUD de los clientes ingresados en el sistema.
 
-4. Modulo Tienda
+##### **4. Modulo Tienda**
 
 En este modulo se encuentra la tabla con la informacion y CRUD de los productos y categorias de los mismos.
 
-5. Modulo Venta
+##### **5. Modulo Venta**
 
 En este modulo se puede realizar las ventas de los productos que se encuentran en el sistema.
 
-6. Modulo Citas
+##### **6. Modulo Citas**
 
 En este modulo se encuentra el apartado de citas agendadas y calendario. En donde citas agendadas muestra una tabla con la infomacion de las citas que ya se encuentran agendadas en el calendario. En el apartado calendario se puede vizualizar de mejor manera las citas que estan agendadas.
 
