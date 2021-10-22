@@ -273,8 +273,14 @@ Responsabilidades del equipo de diseño
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
 ### ` `Diseño de Prototipo<a name="prototipo"/>
 ![Dashboard](https://files.catbox.moe/ix12on.PNG)
-![](https://files.catbox.moe/8mar2n.png)
-![](https://files.catbox.moe/okzs9s.png)
+![Usuarios](https://files.catbox.moe/18lo8v.PNG)
+![Roles](https://files.catbox.moe/rroyng.PNG)
+![Clientes](https://files.catbox.moe/51qz3j.PNG)
+![Productos](https://files.catbox.moe/nxtgk4.PNG)
+![Categorias](https://files.catbox.moe/qobsj3.PNG)
+![Citas](https://files.catbox.moe/clybtd.PNG)
+![Calendario](https://files.catbox.moe/yglpqt.PNG)
+
 
 ### ` `Casos de Uso<a name="casos"/>
 ![](https://files.catbox.moe/oiglp1.png)
