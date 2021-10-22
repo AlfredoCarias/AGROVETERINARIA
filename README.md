@@ -137,6 +137,8 @@ Se escogio debido a que es fácil testear cada capa por separado debido a la sep
 
 #### ` ` Template Administrador:
 
+Desde esta interfaz el usuario podra administrar todo el sistema.
+
 ##### **1. Modulo Dashboard**
 
 En este modulo se muestra la cantidad de usuarios y productos que estan activos en la base de datos.
