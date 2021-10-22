@@ -19,7 +19,9 @@
     - [Herramientas y Tecnologias](#herramientas)
     - [Funcionalidades del sistema](#FUNDAMENTO)
     - [Valores de trabajo](#VALORES)
-* [Calendario de actividades](#ACTIVIDADES)
+    - [Valores de trabajo](#users)
+    - [Calendario de actividades](#ACTIVIDADES)
+    
 * [Artefactos](#Artefactos)
     - [Pila de producto](#pilaprod)
     - [Pila de sprint](#pilasprint)
@@ -205,7 +207,7 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 5. Transparencia
 
 
-## ` `Tipos de Usuarios<a name="ACTIVIDADES"/>
+## ` `Tipos de Usuarios<a name="users"/>
 |  No.    | Tipo de usuario  |  Descripcion  	|
 |---	  |---	             |---	            |
 
