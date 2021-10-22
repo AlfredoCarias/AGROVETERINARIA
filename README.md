@@ -150,12 +150,15 @@ En este modulo se encuentra la tabla con la informacion y CRUD de los usuarios y
 En este modulo se encuentra la tabla con la informacion y CRUD de los clientes ingresados en el sistema.
 
 4. Modulo Tienda
+
 En este modulo se encuentra la tabla con la informacion y CRUD de los productos y categorias de los mismos.
 
 5. Modulo Venta
+
 En este modulo se puede realizar las ventas de los productos que se encuentran en el sistema.
 
 6. Modulo Citas
+
 En este modulo se encuentra el apartado de citas agendadas y calendario. En donde citas agendadas muestra una tabla con la infomacion de las citas que ya se encuentran agendadas en el calendario. En el apartado calendario se puede vizualizar de mejor manera las citas que estan agendadas.
 
 ### ` `Valores de trabajo<a name="VALORES"/>
