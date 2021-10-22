@@ -272,6 +272,9 @@ Responsabilidades del equipo de diseño
 
 ## ` `Diseño del sistema<a name="DIAGRAMA"/>
 ### ` `Diseño de Prototipo<a name="prototipo"/>
+
+#### ` `Modulo Dashboard
+
 ![Dashboard](https://files.catbox.moe/ix12on.PNG)
 ![Usuarios](https://files.catbox.moe/18lo8v.PNG)
 ![Roles](https://files.catbox.moe/rroyng.PNG)
