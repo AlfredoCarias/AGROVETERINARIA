@@ -212,7 +212,7 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 |---	  |---	             |---	                                                                                                  |
 |1	      |Administrador	 |Se encarga de gestionar los usuario y sus privilegios, asi como el control total del sistema.           |
 |2	      |Cliente	         |Este usuario solo puede visualizar contenidos.                                                          |
-|3	      |Empleado	         |Tiene los privilegios de poder agregar citas y vender productos                                         |
+|3	      |Empleado	         |Tiene los privilegios de poder agregar citas y gestionar los productos                                  |
 
 
 ## ` `Cronograma de actividades<a name="ACTIVIDADES"/>
