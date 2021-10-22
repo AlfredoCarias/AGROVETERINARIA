@@ -329,5 +329,5 @@ Responsabilidades del equipo de diseño
 ### ` `Diagrama de Entidad De Relacion<a name="casos"/>
 ![](https://files.catbox.moe/rwi87p.png)
 
-### ` `Estrategias de Pruebas<a name="prueba"/>
+## ` `Estrategias de Pruebas<a name="prueba"/>
 
