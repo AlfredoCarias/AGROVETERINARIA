@@ -19,7 +19,7 @@
     - [Herramientas y Tecnologias](#herramientas)
     - [Funcionalidades del sistema](#FUNDAMENTO)
     - [Valores de trabajo](#VALORES)
-    - [Valores de trabajo](#users)
+    - [Descripcion de Usuarios](#users)
     - [Calendario de actividades](#ACTIVIDADES)
     
 * [Artefactos](#Artefactos)
