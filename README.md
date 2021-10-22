@@ -133,15 +133,30 @@ Se escogio debido a que es fácil testear cada capa por separado debido a la sep
 
 
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
-### ` `Fundamentación<a name="FUNDAMENTO"/>
+### ` `Fundamentación de Modulos<a name="FUNDAMENTO"/>
 
-1. Sistema Inventario
+#### ` ` Administrador:
 
-Poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria.
+1. Modulo Dashboard
 
-2. Sistema de Citas
+En este modulo se muestra la cantidad de usuarios y productos que estan activos en la base de datos.
 
-Poder llevar el control de las citas agendadas y poder agregarse o dar de baja cuando sea necesario.
+2. Modulo Usuarios
+
+En este modulo se encuentra la tabla con la informacion y CRUD de los usuarios y roles de los mismos. En el apartado de usuarios se ve, crea, edita o elimina un usuarios teniendo la posibilidad de otorgar un tipo de rol. En el apartado de roles se puede ver,crear,editar o eliminar un rol, dandoles permisos especiales a cada rol mediante una interfaz.En ambos apartado se pueden generar reportes en formato PDF.
+
+3. Modulo CLiente
+
+En este modulo se encuentra la tabla con la informacion y CRUD de los clientes ingresados en el sistema.
+
+4. Modulo Tienda
+En este modulo se encuentra la tabla con la informacion y CRUD de los productos y categorias de los mismos.
+
+5. Modulo Venta
+En este modulo se puede realizar las ventas de los productos que se encuentran en el sistema.
+
+6. Modulo Citas
+En este modulo se encuentra el apartado de citas agendadas y calendario. En donde citas agendadas muestra una tabla con la infomacion de las citas que ya se encuentran agendadas en el calendario. En el apartado calendario se puede vizualizar de mejor manera las citas que estan agendadas.
 
 ### ` `Valores de trabajo<a name="VALORES"/>
 
