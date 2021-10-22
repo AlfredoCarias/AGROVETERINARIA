@@ -276,11 +276,23 @@ Responsabilidades del equipo de diseño
 #### ` `Modulo Dashboard
 
 ![Dashboard](https://files.catbox.moe/ix12on.PNG)
+
+#### ` `Modulo Usuarios
+
 ![Usuarios](https://files.catbox.moe/18lo8v.PNG)
 ![Roles](https://files.catbox.moe/rroyng.PNG)
+
+#### ` `Modulo Clientes
+
 ![Clientes](https://files.catbox.moe/51qz3j.PNG)
+
+#### ` `Modulo Tienda
+
 ![Productos](https://files.catbox.moe/nxtgk4.PNG)
 ![Categorias](https://files.catbox.moe/qobsj3.PNG)
+
+#### ` `Modulo Citas
+
 ![Citas](https://files.catbox.moe/clybtd.PNG)
 ![Calendario](https://files.catbox.moe/yglpqt.PNG)
 
