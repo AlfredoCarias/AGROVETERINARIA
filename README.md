@@ -202,6 +202,23 @@ En este modulo se encuentran a visualizacion para los clientes de los productos 
 
 En este modulo se encuentra la informacion de la tienda, como su mision y vision e historia.
 
+### ` `Requerimientos del sistema<a name="FUNDAMENTO"/>
+
+1. Control de Inventario
+
+* Se debe de poder mostrar los productos ingresados.
+* Se debe de poder editar, agregar o eliminar un producto.
+
+2. Control de Permisos
+
+3. Gestion de Roles
+
+4. Manejo de Reportes
+
+5. Venta de Productos
+
+6. Control de Citas
+
 ### ` `Valores de trabajo<a name="VALORES"/>
 
 Los valores que deben ser practicados por todos los miembros involucrados en el desarrollo del proyecto y que hacen posible que la metodología Scrum tenga éxito son:
