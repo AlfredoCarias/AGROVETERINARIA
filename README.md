@@ -206,6 +206,8 @@ Los valores que deben ser practicados por todos los miembros involucrados en el 
 
 
 ## ` `Tipos de Usuarios<a name="ACTIVIDADES"/>
+|  No.    | Tipo de usuario  |  Descripcion  	|
+|---	  |---	             |---	            |
 
 
 
