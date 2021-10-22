@@ -145,7 +145,7 @@ En este modulo se muestra la cantidad de usuarios y productos que estan activos 
 
 En este modulo se encuentra la tabla con la informacion y CRUD de los usuarios y roles de los mismos. En el apartado de usuarios se ve, crea, edita o elimina un usuarios teniendo la posibilidad de otorgar un tipo de rol. En el apartado de roles se puede ver,crear,editar o eliminar un rol, dandoles permisos especiales a cada rol mediante una interfaz.En ambos apartado se pueden generar reportes en formato PDF.
 
-##### **3. Modulo CLiente**
+##### 3. **Modulo CLiente**
 
 En este modulo se encuentra la tabla con la informacion y CRUD de los clientes ingresados en el sistema.
 
