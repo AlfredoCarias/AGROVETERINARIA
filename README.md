@@ -201,18 +201,12 @@ Es donde se presenta los requisitos del sistema o del usuarion en esta metodolog
 
 Agroveterinaria
 
-Sistema capaz de poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria, contara con el control de citas por medio de un calendario que se encontrara en el sistema. ![imagen](https://user-images.githubusercontent.com/55295824/138377304-de22e08d-8e80-4128-b89b-14d2aaa20862.png)
-
-
-
-Sistema Administracion de ingresos y estadisticas de juegos
-
-Programa que sea capaz de llevar el control de los ingresos, cortes de caja diarios y llevar una estadística de los juegos utilizados.
+Sistema capaz de poder llevar el control y gestión (compra y venta) del inventario de una agro veterinaria, contara con el control de citas por medio de un calendario que se encontrara en el sistema.
 
 
 ¿Cómo se va realizar?
 
-Por medio del lenguaje de programacion PHP se realizaran los sistemas de billetera electronica y el control de ingresos y estadistica, utilizando a su vez una base de datos realizada en Mysql, en la cual tendra el registro de los datos de usuarios y los ingresos.
+Se realizara la planificación del sistema mencionado anteriormente utilizando la metodología Scrum para el control y ejecución de actividades; se utilizara la Arquitectura de Capas para el análisis del mismo. Todo esto se trabajara mediante la plataforma GitHub.
 
 ### ` `Pila de Sprint<a name="pilasprint"/>
 
