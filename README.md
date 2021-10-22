@@ -28,6 +28,9 @@
 * [Diseño del sistema](#DIAGRAMA)
     - [Diseño de Prototipo](#prototipo)
     - [Casos de Uso](#casos)
+
+* [Estrategias de Pruebas](#prueba)
+
     
 
 ## ` `Personal y roles del proyecto<a name="roles"/>
@@ -325,4 +328,6 @@ Responsabilidades del equipo de diseño
 
 ### ` `Diagrama de Entidad De Relacion<a name="casos"/>
 ![](https://files.catbox.moe/rwi87p.png)
+
+### ` `Estrategias de Pruebas<a name="prueba"/>
 
