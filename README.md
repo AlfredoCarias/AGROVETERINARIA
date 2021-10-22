@@ -151,6 +151,11 @@ Es plugin jQuery que proporciona un completo calendario que se puede alimentar p
 Es una librería para generar códigos de barras en elementos HTML usando JavaScript.
 ![](https://files.catbox.moe/qtcxto.jpg)
 
+* **Ajax**
+
+Es una técnica de desarrollo web para crear aplicaciones web asíncronas
+![](https://files.catbox.moe/xsptfm.png)
+
 ### ` `Funcionalidades del sistema<a name="FUNDAMENTO"/>
 
 #### ` ` Template Administrador:
