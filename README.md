@@ -133,6 +133,31 @@ Se escogio debido a que es fácil testear cada capa por separado debido a la sep
 
 
 ## ` `Descripción General del proyecto<a name="GENERAL"/>
+
+### ` `Herramientas y Tecnologias<a name="herramientas"/>
+
+* **PHP:**
+
+Es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web.![](https://files.catbox.moe/ynzm7t.png)
+
+
+* **MySQL:**
+
+Es un sistema de gestión de bases de datos relacionales (RDBMS) de código abierto respaldado por Oracle y basado en el lenguaje de consulta estructurado (SQL). ![](https://files.catbox.moe/ynzm7t.png)
+
+
+* **Java Script:**
+
+Es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web, cada vez que una página web hace algo más que sentarse allí y mostrar información estática para que la veas, muestra oportunas actualizaciones de contenido, mapas interactivos, animación de Gráficos 2D/3D, desplazamiento de máquinas reproductoras de vídeo, etc.Es un sistema de gestión de bases de datos relacionales (RDBMS) de código abierto respaldado por Oracle y basado en el lenguaje de consulta estructurado (SQL). ![](https://files.catbox.moe/ynzm7t.png)
+
+* **FullCalendar:**
+
+Es plugin jQuery que proporciona un completo calendario que se puede alimentar por AJAX (o no, si definimos los eventos en el momento de su creación), y que nos permite incluso arrastrar y soltar eventos, o incluso sincronizarlo con Google Calendar.
+
+* **JsBarcode**
+
+Es una librería para generar códigos de barras en elementos HTML usando JavaScript.
+
 ### ` `Fundamentación de Modulos<a name="FUNDAMENTO"/>
 
 #### ` ` Template Administrador:
