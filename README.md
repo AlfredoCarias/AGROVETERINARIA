@@ -29,6 +29,8 @@
 * [Diseño del sistema](#DIAGRAMA)
     - [Diseño de Prototipo](#prototipo)
     - [Casos de Uso](#casos)
+    - [Diagrama ER](#diagrama)
+
 
 * [Estrategias de Pruebas](#prueba)
 
@@ -366,7 +368,7 @@ Responsabilidades del equipo de diseño
 ### ` `Casos de Uso<a name="casos"/>
 ![](https://files.catbox.moe/oiglp1.png)
 
-### ` `Diagrama de Entidad De Relacion<a name="casos"/>
+### ` `Diagrama de Entidad De Relacion<a name="diagrama"/>
 ![](https://files.catbox.moe/nswc1p.PNG)
 
 ## ` `Estrategias de Pruebas<a name="prueba"/>
