@@ -18,6 +18,7 @@
 * [Descripción General del proyecto](#GENERAL)
     - [Herramientas y Tecnologias](#herramientas)
     - [Funcionalidades del sistema](#FUNDAMENTO)
+    - [Requerimientos del sistema](#requerimientos)
     - [Valores de trabajo](#VALORES)
     - [Descripcion de Usuarios](#users)
     - [Calendario de actividades](#ACTIVIDADES)
@@ -208,16 +209,30 @@ En este modulo se encuentra la informacion de la tienda, como su mision y vision
 
 * Se debe de poder mostrar los productos ingresados.
 * Se debe de poder editar, agregar o eliminar un producto.
+* Se puede crear un reporte en formato PDF
 
 2. Control de Permisos
 
+* Se pueden agregar o eliminar permisos a los usuarios, dandoles privilegios como leer, escribir, actualizar o eliminar.
+
 3. Gestion de Roles
+
+* Se puede agregar, eliminar o editar un rol.
+* Se puede agregar o quitar privilegios de usuario.
 
 4. Manejo de Reportes
 
+* Cada modulo tendra su generacion de reporte en formato PDF.
+
 5. Venta de Productos
 
+* Se eliminara del stock la cantidad de productos vendidos.
+* Se podra generar una factura en formato PDF.
+
 6. Control de Citas
+
+* Se podran agregar o eliminar citas.
+* 
 
 ### ` `Valores de trabajo<a name="VALORES"/>
 
