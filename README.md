@@ -213,12 +213,15 @@ En este modulo se encuentra la informacion de la tienda, como su mision y vision
 
 2. Control de Permisos
 
-* Se pueden agregar o eliminar permisos a los usuarios, dandoles privilegios como leer, escribir, actualizar o eliminar.
+* Cada usuario tendran sus permisos de acuerdo a lo que el administrador dicte.
+* El unico con control total sea el administrador.
+* Se pueden modificar los permisos asignados.
 
 3. Gestion de Roles
 
 * Se puede agregar, eliminar o editar un rol.
 * Se puede agregar o quitar privilegios de usuario.
+* Los demas usuarios no podran tener privilegios que no se les hayan asignado.
 
 4. Manejo de Reportes
 
