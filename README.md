@@ -355,7 +355,7 @@ Responsabilidades del equipo de diseño
 #### ` `Modulo Tienda
 
 ![Productos](https://files.catbox.moe/yvj7ua.PNG)
-![Categorias](https://files.catbox.moe/qobsj3.PNG)
+![Categorias](https://files.catbox.moe/mmv0da.PNG)
 
 #### ` `Modulo Citas
 
