@@ -61,9 +61,9 @@ El presente documento se redacta el desarrollo del proyecto de un sistema para u
 
     
 ### ` `Objetivos<a name="objetivos"/>
-Al momento de realizar este sistema se propusieron los siguientes objetivos a cumplir:
+Al momento de realizar este sistema se propuso el siguiente objetivo a cumplir:
 
-* adasdas
+* El objetivo general consiste en diseñar e implementar el sistema de agroveterinaria, el cual consistira con varios modulos, principalmente con ventas, citas y gestion de usuarios. El sistema se encargara de facilitar la ejecucion de las tareas asignadas a los empleados del negocio.
     
 ### ` `Proposito del documento<a name="PROPOSITODOC"/>
 
