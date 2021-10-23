@@ -203,7 +203,7 @@ En este modulo se encuentran a visualizacion para los clientes de los productos 
 
 En este modulo se encuentra la informacion de la tienda, como su mision y vision e historia.
 
-### ` `Requerimientos del sistema<a name="FUNDAMENTO"/>
+### ` `Requerimientos del sistema<a name="requerimientos"/>
 
 1. Control de Inventario
 
