@@ -266,6 +266,10 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 
 #### ` `Modulo Dashboard
 
+![Login](https://files.catbox.moe/shw3de.png)
+
+#### ` `Modulo Dashboard
+
 ![Dashboard](https://files.catbox.moe/087yx9.PNG)
 
 #### ` `Modulo Usuarios
