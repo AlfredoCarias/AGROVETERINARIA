@@ -5,11 +5,15 @@
     - [Proposito](#proposito)
     - [Alcance del Sistema](#alcance)
         - [Objetivo General](#objgen)
+        - [Beneficios](#beneficios)
+        - [Objetivos o metas](#metas)
     - [Funcionalidades del sistema](#funcionalidades)
     - [Tipos de usuarios](#usuarios)
     - [Entorno de ejecucion](#ejecucion)
     - [Requerimientos funcionales](#reqfun)
     - [Requerimientos de interfaz](#reqint)
+        - [Interfaz de Hardware](#interfazhard)
+        - [Interfaz de Software](#interfazsoft)
     - [Requerimientos no funcionales](#reqnofun)
 * [Analisis de Requerimientos](#analisisreq)
     - [Descomposición funcional](#descomposicion)
@@ -39,7 +43,7 @@ Realizar un sistema que sea capaz de poder llevar el control y gestión de citas
 ### Objetivo general<a name="objgen"/>
 Llevar el control de inventario y citas que se llevan a cabo en el negocio para un mejor control y manejo de los mismos.
 
-### Beneficios
+### Beneficios<a name="beneficios"/>
 El sistema se encarga de facilitar de mejor manera toda la gestion que deben realizar los usuarios.
 
 Algunos beneficios serian:
@@ -52,7 +56,7 @@ Algunos beneficios serian:
 - Generación de reportes en formato PDF.
 
 
-### Objetivos o metas
+### Objetivos o metas<a name="metas"/>
 
 Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguientes objetivos:
 
@@ -157,16 +161,16 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 ## ` `Requerimientos de interfaz<a name="reqint"/>
 
-#### Componentes
+#### Componentes<a name="componentes"/>
 1. Menu principal.
 2. Login del sistema
 3. Informacion de usuario logeado
 
-### Interfaces de hardware
+### Interfaces de hardware<a name="interfazhard"/>
 
 * Navegadores web en dispositivos como computadoras portatiles o de escritorio..
 
-### Interfaces de software
+### Interfaces de software<a name="interfazsoft"/>
 
 - Base de datos MySQL.
 - Desarrollado utilizando JavaScript y PHP.
