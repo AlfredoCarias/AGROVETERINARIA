@@ -24,17 +24,17 @@
 
 # ` `Requerimientos de software<a name="requerimientos"/>
 
-## Información del Proyecto<a name="informacion"/>
+## ` `Información del Proyecto<a name="informacion"/>
 
 | Nombre  | Descripción  |
 |---|---|
 | Nombre Proyecto  | Agroveterinaria  |
 | Desarrollador  | Alfredo Loyo |
 
-## Propósito<a name="proposito"/>
+## ` `Propósito<a name="proposito"/>
 Realizar un sistema que sea capaz de poder llevar el control y gestión de citas e inventario de productos, todo esto con el fin de poder ayudar a facilitar los procesos que se llevan a cabo en una agroveterinaria.
 
-## Alcance del Sistema<a name="alcance"/>
+## ` `Alcance del Sistema<a name="alcance"/>
 
 ### Objetivo general
 Llevar el control de inventario y citas que se llevan a cabo en el negocio para un mejor control y manejo de los mismos.
@@ -63,7 +63,7 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 - Manejo y control de inventario.
 - Generación de reportes.
 
-## Funcionalidades del sistema<a name="funcionalidades"/>
+## ` `Funcionalidades del sistema<a name="funcionalidades"/>
 
 | No. | Funcionalidad  | Descripción  |
 |---  |---             |---           |
@@ -72,7 +72,7 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 | 3 | Gestion de Citas | Poder agregar o eliminar citas en un calendario web para poder llevar un orden de las mismas.|
 | 4 | Reportes | Poder generar reportes de las diferentes funciones del sistema para tener un mayor control.|
 
-## Tipos de usuarios<a name="usuarios"/>
+## ` `Tipos de usuarios<a name="usuarios"/>
 
 |  No.    | Tipo de usuario  |  Descripcion  	                                                                                      |
 |---	  |---	             |---	                                                                                                  |
@@ -81,11 +81,11 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 |3	      |Empleado	         |Tiene los privilegios de poder agregar citas y gestionar los productos                                  |
 
 
-## Entorno de ejecucion<a name="ejecucion"/>
+## ` `Entorno de ejecucion<a name="ejecucion"/>
 
 El sistema descrito en este documento debe ser ejecutado en un ambiente web(navegadores).
 
-## Requerimientos funcionales<a name="reqfun"/>
+## ` `Requerimientos funcionales<a name="reqfun"/>
 
 ### 1. Control de usuario
 
@@ -155,7 +155,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 * **Requerimientos funcionales:**
   - Poder generar y guardar reportes en PDF.
 
-## Requerimientos de interfaz<a name="reqint"/>
+## ` `Requerimientos de interfaz<a name="reqint"/>
 
 #### Componentes
 1. Menu principal.
@@ -172,7 +172,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 - Desarrollado utilizando JavaScript y PHP.
 - Servidor montado localmente utilizando XAMPP.
 
-## Requerimientos no funcionales<a name="reqnofun"/>
+## ` `Requerimientos no funcionales<a name="reqnofun"/>
 
 ### Usabilidad
 El sistema contara con un manual de usuario para poder ayudarlo y guiarlo en 
@@ -215,15 +215,15 @@ circunstancia y con cualquier número de usuarios conectados.
 utilizado en computadoras o cualquier dispositivo móvil
 
 
-# Análisis de requerimientos<a name="analisisreq"/>
+# ` `Análisis de requerimientos<a name="analisisreq"/>
 
-## Descomposición funcional<a name="descomposicion"/>
+## ` `Descomposición funcional<a name="descomposicion"/>
 
 Diagrama en donde se descomponen los componentes de los modulos del sistema
 
 ![descomposición funcional](https://files.catbox.moe/d01dem.png)
 
-## Modelo logica de negocio<a name="modellogica"/>
+## ` `Modelo logica de negocio<a name="modellogica"/>
 
 Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
 
@@ -280,7 +280,7 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 ![Calendario](https://files.catbox.moe/3piqz8.PNG)
 
 
-## Implementación<a name="implementacion"/>
+## ` `Implementación<a name="implementacion"/>
 
 ### Arquitectura<a name="arquitectura"/>
 
@@ -307,7 +307,7 @@ La arquitectura que será implementada será la arquitectura en 3 capas, se enfo
 
 ![arquitectura](https://files.catbox.moe/ynzm7t.png)
 
-### Herramientas y Tecnologias<a name="herrramientas"/>
+### ` `Herramientas y Tecnologias<a name="herrramientas"/>
 
 Se detallan las herramientas y tecnologías a usar para el desarrollo del proyecto.
 
