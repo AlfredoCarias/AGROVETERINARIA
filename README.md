@@ -24,9 +24,6 @@
 * [Analisis de Requerimientos](#analisisreq)
     - [Implementacion del Analisis](#implementacion)
         - [Arquitectura](#arquitectura)
-        - [Herramientas y Tecnologias](#herrramientas)
-            - [Tecnologias](#tec)
-            - [Herramientas](#herr)
     - [Descomposición funcional](#descomposicion)   
     - [Capa de Negocio](#modellogic)
         - [Diagramas de Casos de Uso](#casos)
@@ -34,6 +31,9 @@
     - [Capa de Datos](#datos)
         - [Diagrama de Entidad de Relacion](#er)
     - [Capa de Interfaz](#ui)
+    - [Herramientas y Tecnologias](#herrramientas)
+            - [Tecnologias](#tec)
+            - [Herramientas](#herr)
 * [Planificacion de Acividades](#planificacion)
 
 
