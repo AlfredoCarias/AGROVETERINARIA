@@ -53,7 +53,7 @@ Realizar un sistema que sea capaz de poder llevar el control y gestión de citas
 ## ` `Alcance del Sistema<a name="alcance"/>
 
 ### Objetivo general<a name="objgen"/>
-Llevar el control de inventario y citas que se llevan a cabo en el negocio para un mejor control y manejo de los mismos.
+Desarrollar un sistema capaz de llevar el control de inventario y citas que se llevan a cabo en el negocio de una agroveterinaria para un mejor control y manejo de los mismos.
 
 ### Beneficios<a name="beneficios"/>
 El sistema se encarga de facilitar de mejor manera toda la gestion que deben realizar los usuarios.
