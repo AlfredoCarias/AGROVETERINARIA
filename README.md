@@ -152,7 +152,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 #### Componentes
 1. Menu principal.
 2. Login del sistema
-3. Barra donde se muestra el usuario logeado
+3. Informacion de usuario logeado
 
 ### Interfaces de hardware
 
