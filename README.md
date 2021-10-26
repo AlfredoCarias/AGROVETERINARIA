@@ -24,7 +24,7 @@
 * [Analisis de Requerimientos](#analisisreq)
     - [Implementacion del Analisis](#implementacion)
         - [Arquitectura](#arquitectura)
-    - [Capa de Negocio](#modellogic)
+    - [Capa de Negocio](#modellogica)
         - [Descomposición funcional](#descomposicion)   
         - [Diagramas de Casos de Uso](#casos)
         - [Mapa de navegación](#navmap)
