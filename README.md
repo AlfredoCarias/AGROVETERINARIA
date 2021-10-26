@@ -72,12 +72,12 @@ Algunos beneficios serian:
 
 Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguientes objetivos:
 
-- Control de roles, permisos y usuarios.
-- Control de procesos de ventas.
-- Control de citas.
-- Notificaion por correo.
-- Manejo y control de inventario.
-- Generación de reportes.
+- Desarrollar un control de roles, permisos y usuarios.
+- Desarrollar un control de procesos de ventas.
+- Desarrollar un control de citas.
+- Desarrollar un area de notificaion por correo.
+- Desarrollar un manejo y control de inventario.
+- Desarrollar generación de reportes.
 
 ## ` `Funcionalidades del sistema<a name="funcionalidades"/>
 
