@@ -177,9 +177,31 @@ contendrá lo siguiente:
 - Explicaciones señalando el componente del sistema
 - Links de videos tutoriales para que el usuario pueda comprender mejor 
 
+### Facilidad de aprendizaje
+* El sistema está enfocado en ser sencillo para que el usuario pueda aprenderlo a 
+utilizar de manera rápida y sencilla., para lograr esto el sistema cumplirá lo 
+siguiente:
+
+- Sistema de controles simples
+- Interfaz amigable 
+- Fácil acceso
+
 ###  Diagnóstico y prevención de errores
 * Si se produce un error, proporcionar la información necesaria para que el 
 usuario entienda el fallo. Por ejemplo, en un formulario marcar en rojo un 
 campo obligatorio no rellenado con un mensaje de acompañamiento que 
 ayude a entender qué debe poner para poder completar correctamente el 
 campo. 
+
+### Fácil acceso
+* Para garantizar la calidad del sistema se tomaran los siguientes aspectos para 
+tomar en cuenta:
+
+- Eficiencia: Se reducirá el uso de recursos para tener una mayor 
+rapidez al momento de utilizar el sistema.
+
+- Confiabilidad: El sistema mantendrá su rendimiento en cualquier 
+circunstancia y con cualquier número de usuarios conectados.
+
+- Portabilidad. Este software será multiplataforma por lo que podrá ser 
+utilizado en computadoras o cualquier dispositivo móvil
