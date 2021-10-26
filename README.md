@@ -444,11 +444,10 @@ Responsabilidades del equipo de diseño
 
 
 ##  ` `Calendario de revisiones
-Se establecen el calendario de revisiones proporcionado para las revisiones del progreso que se está desarrollando del proyecto.
 
-
-| Fase| Tema| Fecha Entrega|
+| Fase| Descripcion| Fecha Entrega|
 |---|---|---|
-|  Fase 1 |  Primera Presentación Proyecto Final| 08/10/2021|
-| Fase 2  |Segunda Presentación Proyecto Final| 22/10/2021|
-| Fase 3  | Presentación Proyecto Final| 06/11/2021|
+|  Fase 1 |  Propuesta de Proyecto Final| 08/09/2021|
+| Fase 2  |Primera Presentación de Avances Proyecto Final| 02/10/2021|
+| Fase 3  |Segunda Presentación de Avances Proyecto Final| 26/10/2021|
+| Fase 4  | Presentación Proyecto Final| 30/10/2021|
