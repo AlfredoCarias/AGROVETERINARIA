@@ -327,7 +327,7 @@ Se detallan las herramientas y tecnologías a usar para el desarrollo del proyec
 
 PHPH es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web. JavaScript es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web
 
-![presentacion]()
+![presentacion](https://files.catbox.moe/xwyf11.webp)
 
 #### Capa de datos
 
@@ -335,7 +335,7 @@ PHPH es un lenguaje de programación de uso general que se adapta especialmente 
 
   Es un sistema de gestión de bases de datos relacionales (RDBMS) de código abierto respaldado por Oracle y basado en el lenguaje de consulta estructurado. 
   
-  ![]()
+  ![mysql](https://files.catbox.moe/omdk3w.jpg)
 
 
 #### Herramientas
@@ -344,16 +344,16 @@ PHPH es un lenguaje de programación de uso general que se adapta especialmente 
 
  Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS.
  
-  ![]()
+  ![visual](https://files.catbox.moe/xbu5dd.png)
  
 - **SQLyog**
 
  Es una herramienta GUI para RDBMS MySQL.
  
- ![]()
+ ![sqlyog](https://files.catbox.moe/wak2au.jpg)
  
 - **XAMPP**
 Paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script PHP y Perl.
 
- ![]()
+ ![xampp](https://files.catbox.moe/nqehcn.webp)
 
