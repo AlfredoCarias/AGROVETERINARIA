@@ -4,6 +4,7 @@
     - [Información del Proyecto](#informacion)
     - [Proposito](#proposito)
     - [Alcance del Sistema](#alcance)
+        - [Objetivo General](#objgen)
     - [Funcionalidades del sistema](#funcionalidades)
     - [Tipos de usuarios](#usuarios)
     - [Entorno de ejecucion](#ejecucion)
@@ -35,7 +36,7 @@ Realizar un sistema que sea capaz de poder llevar el control y gestión de citas
 
 ## ` `Alcance del Sistema<a name="alcance"/>
 
-### Objetivo general
+### Objetivo general<a name="objgen"/>
 Llevar el control de inventario y citas que se llevan a cabo en el negocio para un mejor control y manejo de los mismos.
 
 ### Beneficios
