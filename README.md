@@ -66,7 +66,7 @@ Algunos beneficios serian:
 - Generación de reportes en formato PDF.
 
 
-### Objetivos o metas<a name="metas"/>
+### ` `Objetivos o metas<a name="metas"/>
 
 Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguientes objetivos:
 
@@ -171,16 +171,16 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 ## ` `Requerimientos de interfaz<a name="reqint"/>
 
-#### Componentes<a name="componentes"/>
+#### ` `Componentes<a name="componentes"/>
 1. Menu principal.
 2. Login del sistema
 3. Informacion de usuario logeado
 
-### Interfaces de hardware<a name="interfazhard"/>
+### ` `Interfaces de hardware<a name="interfazhard"/>
 
 * Navegadores web en dispositivos como computadoras portatiles o de escritorio..
 
-### Interfaces de software<a name="interfazsoft"/>
+### ` `Interfaces de software<a name="interfazsoft"/>
 
 - Base de datos MySQL.
 - Desarrollado utilizando JavaScript y PHP.
@@ -188,7 +188,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 ## ` `Requerimientos no funcionales<a name="reqnofun"/>
 
-### Usabilidad<a name="usabilidad"/>
+### ` `Usabilidad<a name="usabilidad"/>
 El sistema contara con un manual de usuario para poder ayudarlo y guiarlo en 
 el uso apropiado del sistema, de esta manera el usuario puede consultar 
 cualquier duda o inconveniente que se le presente. El manual de usuario 
@@ -199,7 +199,7 @@ contendrá lo siguiente:
 - Explicaciones señalando el componente del sistema
 - Links de videos tutoriales para que el usuario pueda comprender mejor 
 
-### Facilidad de aprendizaje<a name="facilidad"/>
+### ` `Facilidad de aprendizaje<a name="facilidad"/>
 El sistema está enfocado en ser sencillo para que el usuario pueda aprenderlo a 
 utilizar de manera rápida y sencilla., para lograr esto el sistema cumplirá lo 
 siguiente:
@@ -208,14 +208,14 @@ siguiente:
 - Interfaz amigable 
 - Fácil acceso
 
-###  Diagnóstico y prevención de errores<a name="errores"/>
+###  ` `Diagnóstico y prevención de errores<a name="errores"/>
 * Si se produce un error, proporcionar la información necesaria para que el 
 usuario entienda el fallo. Por ejemplo, en un formulario marcar en rojo un 
 campo obligatorio no rellenado con un mensaje de acompañamiento que 
 ayude a entender qué debe poner para poder completar correctamente el 
 campo. 
 
-### Fácil acceso<a name="facilacces"/>
+### ` `Fácil acceso<a name="facilacces"/>
 Para garantizar la calidad del sistema se tomaran los siguientes aspectos para 
 tomar en cuenta:
 
@@ -241,7 +241,7 @@ Diagrama en donde se descomponen los componentes de los modulos del sistema
 
 Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
 
-### Diagramas de casos de uso<a name="casos"/>
+### ` `Diagramas de casos de uso<a name="casos"/>
 
 Se muestran los casos de uso de los diferentes modulos del sistema.
 
@@ -254,13 +254,13 @@ Se muestran los casos de uso de los diferentes modulos del sistema.
 ![gestion](https://files.catbox.moe/535tpy.png)
 
 
-### Diagrama de entidad de relacion<a name="er"/>
+### ` `Diagrama de entidad de relacion<a name="er"/>
 
 Se muestra el modelo de entidad de relacion de las diferentes tablas de la base de datos que conforma el sistema
 
 ![er](https://files.catbox.moe/nswc1p.PNG)
 
-### Mapa de navegación<a name="navmap"/>
+### ` `Mapa de navegación<a name="navmap"/>
 
 En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
@@ -326,7 +326,7 @@ La arquitectura que será implementada será la arquitectura en 3 capas, se enfo
 
 Se detallan las herramientas y tecnologías a usar para el desarrollo del proyecto.
 
-#### Tecnologías<a name="tec"/>
+#### ` `Tecnologías<a name="tec"/>
 
 #### Capa de presentación
 
@@ -353,7 +353,7 @@ PHPH es un lenguaje de programación de uso general que se adapta especialmente 
   ![mysql](https://files.catbox.moe/omdk3w.jpg)
 
 
-#### Herramientas<a name="herr"/>
+#### ` `Herramientas<a name="herr"/>
 
 - **Visual Studio Code para editar el código de la app web con angular**
 
