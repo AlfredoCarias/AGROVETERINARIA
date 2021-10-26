@@ -300,26 +300,27 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 
 #### ` `Modulo Dashboard
 
-![Dashboard](https://files.catbox.moe/087yx9.PNG)
+![Dashboard](https://files.catbox.moe/cfqgcg.png)
 
 #### ` `Modulo Usuarios
 
-![Usuarios](https://files.catbox.moe/cgdvw9.PNG)
-![Roles](https://files.catbox.moe/kaww5s.PNG)
+![Usuarios](https://files.catbox.moe/vho8xc.png)
+![Roles](https://files.catbox.moe/gwv0p1.png)
+![Clientes](https://files.catbox.moe/3o5mdj.png)
 
-#### ` `Modulo Clientes
+#### ` `Modulo Bodega
 
-![Clientes](https://files.catbox.moe/sjulg1.PNG)
+![Productos](https://files.catbox.moe/lmi6f2.png)
+![Categorias](https://files.catbox.moe/8hocpq.png)
 
 #### ` `Modulo Tienda
 
-![Productos](https://files.catbox.moe/yvj7ua.PNG)
-![Categorias](https://files.catbox.moe/mmv0da.PNG)
+![Productos](https://files.catbox.moe/c8k37y.png)
 
 #### ` `Modulo Citas
 
-![Citas](https://files.catbox.moe/dcjy4t.PNG)
-![Calendario](https://files.catbox.moe/3piqz8.PNG)
+![Citas](https://files.catbox.moe/nu79ld.png)
+![Calendario](https://files.catbox.moe/tbhdev.png)
 
 
 ### ` `Herramientas y Tecnologias<a name="herrramientas"/>
