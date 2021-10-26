@@ -386,6 +386,44 @@ Es un marco de trabajo o framework utilizado para optimizar el trabajo de equipo
 
 La razon de elegir el metodo Scrum es por su organización ágil y conjunta del proyecto, siendo capaz de responder a posibles contratiempos que aparecen en su desarrollo. Asimismo, tiene por objetivo utilizar el producto lo antes posible, mientras se va mejorando.
 
+## ` `Personal y roles del proyecto<a name="roles"/>
+
+
+|  Integrante       | Carnet  	    | Rol  	        |
+|---	            |---	        |---	        |
+|  Alfredo Loyo 	| 18-3306 	    | Product Owner/Scrum Master	|
+|  "        	|    	"        | Desarrollador |
+|  "        	|  	     "       | Desarrollador	|
+|  "       	|    	 "       | Desarrollador |
+|  "      	|    	 "       | Diseño        |
+
+### ` `Pila de Sprint<a name="pilasprint"/>
+
+Es donde se presenta los requisitos y las actividades desarrolladas por el equipo del proyecto y donde se detalla los implicados y las responsabilidades
+
+Responsabilidades del Product Owner
+
+ - Presencia la supervicion del proyecto y de los avances durante las faces del proyecto
+ - Realiza las instrucciones necesarias para el desarrollo del proyecto
+
+Resposabilidades del Scrum Manager
+
+ - Supervisa y recibe las instrucciones del gestor del producto para el desarrollo del proyecto
+ - Asigna las instrucciones a los demas integrantes del proyecto
+ - Supervisa el cumplimiento de actividades del proyecto
+
+Responsabilidades del equipo de desarrollo
+
+ - Elabora las instrucciones proporcionadas en el sprint
+ - Resolucion de dudas entre el cliente y el Scrum Manager
+ - Desarrolla las actividades presentadas
+
+Responsabilidades del equipo de diseño
+
+ - Realiza las actividades presentadas
+ - Resolucion de dudas entre el equipo de desarrollo
+
+
 ## ` `Cronograma de actividades<a name="ACTIVIDADES"/>
 
 
@@ -403,3 +441,14 @@ La razon de elegir el metodo Scrum es por su organización ágil y conjunta del 
 |  Sprint#2 02/10/2021	| [Diseñar de Login de usuarios](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/3)	|![](https://files.catbox.moe/p7716x.png)	|
 |  Sprint#1 25/09/2021	| [Diseñar Calendario para el sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/2)	|![](https://files.catbox.moe/ic6mzb.png)|
 |  Sprint#1 25/09/2021	| [Diseñar Menu del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)	|![](https://files.catbox.moe/75yxyz.png)	|
+
+
+##  ` `Calendario de revisiones
+Se establecen el calendario de revisiones proporcionado para las revisiones del progreso que se está desarrollando del proyecto.
+
+
+| Fase| Tema| Fecha Entrega|
+|---|---|---|
+|  Fase 1 |  Primera Presentación Proyecto Final| 08/10/2021|
+| Fase 2  |Segunda Presentación Proyecto Final| 22/10/2021|
+| Fase 3  | Presentación Proyecto Final| 06/11/2021|
