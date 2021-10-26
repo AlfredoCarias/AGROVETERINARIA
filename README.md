@@ -10,7 +10,7 @@
 
 
 
-# Requerimientos de software<a name="requ"/>
+# ` `Requerimientos de software<a name="requ"/>
 
 ## Información del Proyecto
 
