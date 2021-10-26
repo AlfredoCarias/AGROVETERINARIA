@@ -105,8 +105,6 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 ### 1. Control de usuario
 
 * **Descripción:** Control de usuarios que hacen uso del sistema.
-* **Prioridad:** Alta.
-* **Acciones iniciadoras y comportamientos esperados:**
 
    - Se crea llenando un formulario con los datos solicitados
    - Consulta de usuarios registrados
@@ -124,8 +122,6 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 ### 2. Gestion e inventario de producto
 
 * **Descripción:** Manejo de los productos que se encuentran en el sistema.
-* **Prioridad:** Alta.
-* **Acciones iniciadoras y comportamientos esperados:**
    - Ingreso de un producto nuevo
    - Se genera un modal con los datos solicitados
    - Se llenan los datos
@@ -142,8 +138,6 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 ### 3. Gestion e inventario de producto
 
 * **Descripción:** Manejo de los productos que se encuentran en el sistema.
-* **Prioridad:** Alta.
-* **Acciones iniciadoras y comportamientos esperados:**
    - Ingreso de un producto nuevo
    - Se genera un modal con los datos solicitados
    - Se llenan los datos
@@ -160,8 +154,6 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 ### 4. Generar reportes
 
 * **Descripción:** Generación de reportes en formato PDF
-* **Prioridad:** Media.
-* **Acciones iniciadoras y comportamientos esperados:**
 
    - Se solicita el reporte de la tabla que se requiere
    - EL sistema genera un reporte de la tabla
