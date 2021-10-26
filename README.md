@@ -28,11 +28,12 @@
             - [Tecnologias](#tec)
             - [Herramientas](#herr)
     - [Descomposición funcional](#descomposicion)   
-    - [Modelo logica de negocio](#modellogic)
+    - [Capa de Negocio](#modellogic)
         - [Diagramas de Casos de Uso](#casos)
-        - [Diagrama de Entidad de Relacion](#er)
         - [Mapa de navegación](#navmap)
-    - [Prototipos UI](#ui)
+    - [Capa de Datos](#datos)
+        - [Diagrama de Entidad de Relacion](#er)
+    - [Capa de Interfaz](#ui)
 * [Planificacion de Acividades](#planificacion)
 
 
