@@ -231,7 +231,7 @@ utilizado en computadoras o cualquier dispositivo móvil
 
 ## ` `Implementación del Analisis<a name="implementacion"/>
 
-### ` `Arquitectura<a name="arquitectura"/>
+### ` `Arquitectura de Capas<a name="arquitectura"/>
 
 La arquitectura que será implementada será la arquitectura en 3 capas, se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
 
