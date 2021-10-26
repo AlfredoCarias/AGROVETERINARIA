@@ -32,8 +32,8 @@
         - [Diagrama de Entidad de Relacion](#er)
     - [Capa de Interfaz](#ui)
     - [Herramientas y Tecnologias](#herrramientas)
-            - [Tecnologias](#tec)
-            - [Herramientas](#herr)
+         - [Tecnologias](#tec)
+         - [Herramientas](#herr)
 * [Planificacion de Acividades](#planificacion)
 
 
