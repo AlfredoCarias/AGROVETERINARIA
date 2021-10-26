@@ -264,7 +264,7 @@ En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
 Se presentan los bocetos de los conceptos de las interfaces gráficas del sistema
 
-#### ` `Modulo Dashboard
+#### ` `Modulo Login
 
 ![Login](https://files.catbox.moe/shw3de.png)
 
