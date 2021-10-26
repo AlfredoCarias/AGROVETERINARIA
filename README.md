@@ -1,28 +1,32 @@
 # Sistema Agroveterinaria
 # Indice
-* [Requerimientos de software](#requ)
-* [Descripción de la metodología de trabajo](#DESCRIPCION)
-    - [Introduccion](#INTRODUCCION)
-    - [Proposito del proyecto](#PROPOSITO)
-    - [Objetivos](#objetivos)
-    - [Proposito del documento](#PROPOSITODOC)
-    - [Alcance](#ALCANCE)
+* [Requerimientos de software](#requerimientos)
+    - [Información del Proyecto](#informacion)
+    - [Proposito](#proposito)
+    - [Alcance del Sistema](#alcance)
+    - [Funcionalidades del sistema](#funcionalidades)
+    - [Tipos de usuarios](#usuarios)
+    - [Entorno de ejecucion](#ejecucion)
+    - [Requerimientos funcionales](#reqfun)
+    - [Requerimientos de interfaz](#reqint)
+    - [Requerimientos no funcionales](#reqnofun)
 
 
 
-# ` `Requerimientos de software<a name="requ"/>
 
-## Información del Proyecto
+# ` `Requerimientos de software<a name="requerimientos"/>
+
+## Información del Proyecto<a name="informacion"/>
 
 | Nombre  | Descripción  |
 |---|---|
 | Nombre Proyecto  | Agroveterinaria  |
 | Desarrollador  | Alfredo Loyo |
 
-## Propósito
+## Propósito<a name="proposito"/>
 Realizar un sistema que sea capaz de poder llevar el control y gestión de citas e inventario de productos, todo esto con el fin de poder ayudar a facilitar los procesos que se llevan a cabo en una agroveterinaria.
 
-## Alcance del Producto / Software
+## Alcance del Sistema<a name="alcance"/>
 
 ### Objetivo general
 Llevar el control de inventario y citas que se llevan a cabo en el negocio para un mejor control y manejo de los mismos.
@@ -51,7 +55,7 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 - Manejo y control de inventario.
 - Generación de reportes.
 
-## Funcionalidades del sistema
+## Funcionalidades del sistema<a name="funcionalidades"/>
 
 | No. | Funcionalidad  | Descripción  |
 |---  |---             |---           |
@@ -60,7 +64,7 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 | 3 | Gestion de Citas | Poder agregar o eliminar citas en un calendario web para poder llevar un orden de las mismas.|
 | 4 | Reportes | Poder generar reportes de las diferentes funciones del sistema para tener un mayor control.|
 
-## Tipos de usuarios
+## Tipos de usuarios<a name="usuarios"/>
 
 |  No.    | Tipo de usuario  |  Descripcion  	                                                                                      |
 |---	  |---	             |---	                                                                                                  |
@@ -69,11 +73,11 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 |3	      |Empleado	         |Tiene los privilegios de poder agregar citas y gestionar los productos                                  |
 
 
-## Entorno de ejecucion
+## Entorno de ejecucion<a name="ejecucion"/>
 
 El sistema descrito en este documento debe ser ejecutado en un ambiente web(navegadores).
 
-## Requerimientos funcionales
+## Requerimientos funcionales<a name="reqfun"/>
 
 ### 1. Control de usuario
 
@@ -143,7 +147,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 * **Requerimientos funcionales:**
   - Poder generar y guardar reportes en PDF.
 
-## Requerimientos de interfaz
+## Requerimientos de interfaz<a name="reqint"/>
 
 #### Componentes
 1. Menu principal.
@@ -160,7 +164,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 - Desarrollado utilizando JavaScript y PHP.
 - Servidor montado localmente utilizando XAMPP.
 
-## Requerimientos no funcionales
+## Requerimientos no funcionales<a name="reqnofun"/>
 
 ### Usabilidad
 * El sistema contara con un manual de usuario para poder ayudarlo y guiarlo en 
