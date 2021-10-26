@@ -36,7 +36,9 @@
          - [Herramientas](#herr)
 * [Planificacion de Acividades](#planificacion)
     - [Metodologia Seleccionada](#SCRUM)
+    - [Roles](#rolesscrum)
     - [Cronograma de Actividades](#ACTIVIDADES)
+    - [Calendario de Revisiones](#revisiones)
 
 
 
@@ -386,7 +388,7 @@ Es un marco de trabajo o framework utilizado para optimizar el trabajo de equipo
 
 La razon de elegir el metodo Scrum es por su organización ágil y conjunta del proyecto, siendo capaz de responder a posibles contratiempos que aparecen en su desarrollo. Asimismo, tiene por objetivo utilizar el producto lo antes posible, mientras se va mejorando.
 
-## ` `Personal y roles del proyecto<a name="roles"/>
+## ` `Personal y roles del proyecto<a name="rolesscrum"/>
 
 
 |  Integrante       | Carnet  	    | Rol  	        |
@@ -443,7 +445,7 @@ Responsabilidades del equipo de diseño
 |  Sprint#1 25/09/2021	| [Diseñar Menu del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)	|![](https://files.catbox.moe/75yxyz.png)	|
 
 
-##  ` `Calendario de revisiones
+##  ` `Calendario de revisiones<a name="revisiones"/>
 
 | Fase| Descripcion| Fecha Entrega|
 |---|---|---|
