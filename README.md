@@ -28,7 +28,7 @@
         - [Diagrama de Entidad de Relacion](#er)
         - [Mapa de navegación](#navmap)
     - [Prototipos UI](#ui)
-    - [Implementacion](#implementacion)
+    - [Implementacion del Analisis](#implementacion)
         - [Arquitectura](#arquitectura)
         - [Herramientas y Tecnologias](#herrramientas)
             - [Tecnologias](#tec)
@@ -288,7 +288,7 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 ![Calendario](https://files.catbox.moe/3piqz8.PNG)
 
 
-## ` `Implementación<a name="implementacion"/>
+## ` `Implementación del Analisis<a name="implementacion"/>
 
 ### ` `Arquitectura<a name="arquitectura"/>
 
