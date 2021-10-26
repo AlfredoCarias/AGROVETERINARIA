@@ -35,6 +35,7 @@
          - [Tecnologias](#tec)
          - [Herramientas](#herr)
 * [Planificacion de Acividades](#planificacion)
+    - [Metodologia Seleccionada](#SCRUM)
 
 
 
@@ -369,3 +370,17 @@ Paquete de software libre, que consiste principalmente en el sistema de gestión
 
  ![xampp](https://files.catbox.moe/nqehcn.webp)
 
+# ` `**Planificacion de Actividades**<a name="planificacion"/>
+## ` `**Metodologia Seleccionada**<a name="SCRUM"/>
+Se selecciono la metodologia Scrum ya que tiene el beneficio de que nos aporta el ritmo de trabajo sostenible, ya que se adapta a los cambios de manera inmediata consiguiendo un ritmo constante, tanto en duración del sprint como de esfuerzo.
+
+![](https://files.catbox.moe/thb0me.jpg)
+
+### ` `¿En que consiste la metodologia Scrum?
+
+Es un marco de trabajo o framework utilizado para optimizar el trabajo de equipo en proyectos complejos y monitorear la evolución del producto manteniendo como enfoque la calidad y los tiempos estipulados de entrega. Este método de trabajo se realiza por ciclos de actividades planificadas previamente, las cuales son conocidas como “sprints”, y está compuesta por una planificación de tareas y plazos establecidos de inicio y fin.
+
+
+### ` `¿Porque se escogio el metodo Scrum?
+
+La razon de elegir el metodo Scrum es por su organización ágil y conjunta del proyecto, siendo capaz de responder a posibles contratiempos que aparecen en su desarrollo. Asimismo, tiene por objetivo utilizar el producto lo antes posible, mientras se va mejorando.
