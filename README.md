@@ -205,3 +205,145 @@ circunstancia y con cualquier número de usuarios conectados.
 
 - __Portabilidad:__ Este software será multiplataforma por lo que podrá ser 
 utilizado en computadoras o cualquier dispositivo móvil
+
+
+# Análisis de requerimientos<a name="analisisreq"/>
+
+## Descomposición funcional
+
+Diagrama en donde se descomponen los componentes de los modulos del sistema
+
+![descomposición funcional](https://files.catbox.moe/d01dem.png)
+
+## Modelado de la lógica de negocio
+
+Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
+
+### Diagramas de casos de uso
+
+Se muestran los casos de uso de los diferentes modulos del sistema.
+
+![sistema](https://files.catbox.moe/jccvr6.png)
+
+![gestion](https://files.catbox.moe/u1nquz.png)
+
+![gestion](https://files.catbox.moe/59nuxf.png)
+
+![gestion](https://files.catbox.moe/535tpy.png)
+
+
+### Modelo relación entidad
+
+Se muestra el modelo de entidad de relacion de las diferentes tablas de la base de datos que conforma el sistema
+
+![er](https://files.catbox.moe/nswc1p.PNG)
+
+## Mapa de navegación
+
+En esta grafica se muestra las diferentes funciones que contiene cada modulo.
+
+![mapa de navegacion](https://files.catbox.moe/gd0nti.png)
+
+## Prototipos UI
+
+Se presentan los bocetos de los conceptos de las interfaces gráficas del sistema
+
+#### ` `Modulo Dashboard
+
+![Dashboard](https://files.catbox.moe/087yx9.PNG)
+
+#### ` `Modulo Usuarios
+
+![Usuarios](https://files.catbox.moe/cgdvw9.PNG)
+![Roles](https://files.catbox.moe/kaww5s.PNG)
+
+#### ` `Modulo Clientes
+
+![Clientes](https://files.catbox.moe/sjulg1.PNG)
+
+#### ` `Modulo Tienda
+
+![Productos](https://files.catbox.moe/yvj7ua.PNG)
+![Categorias](https://files.catbox.moe/mmv0da.PNG)
+
+#### ` `Modulo Citas
+
+![Citas](https://files.catbox.moe/dcjy4t.PNG)
+![Calendario](https://files.catbox.moe/3piqz8.PNG)
+
+
+## Implementación
+
+### Arquitectura
+
+La arquitectura que será implementada será la arquitectura en 3 capas, se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
+
+### **Capa de Presentacion**
+  
+* En esta se gestiona lo que el usuario ve, es la presentación al usuario, le comunica y captura la información del 
+  usuario en el menor tiempo posible. Contiene la interfaz gráfica y debe de ser amigable y cómodo para el usuario; 
+  esta capa se comunica con la capa de negocio. 
+
+### **Capa de Negocio**
+  
+* Esta capa residen los programas que se ejecutan, reciben las peticiones de usuario y envían las respuestas tras el 
+  proceso. Aquí se establecen todas las reglas a cumplirse. Se comunica con la capa de presentación, para recibir y 
+  enviar los resultados, y con la capa de datos, para poder solicitar almacenar o recuperar datos del gestor. 
+
+### **Capa de Datos**
+
+* Es la encargada de residir los datos y se encarga de acceder a los mismos. Esta se encuentra formada por uno o más 
+  gestores de bases de datos en los que se realizan el almacenamiento de los datos, reciben las solicitudes de 
+  almacenamiento o de la recuperación de información. Es necesario contar con personal capacitado para el desarrollo 
+  y construcción de los datos, ya que sin estos el sistema desarrollado no funcionara correctamente. 
+
+![arquitectura](https://files.catbox.moe/ynzm7t.png)
+
+### Herramientas y Tecnologias
+
+Se detallan las herramientas y tecnologías a usar para el desarrollo del proyecto.
+
+#### Tecnologías
+
+#### Capa de presentación
+
+- **Vali Admin**
+
+  Vali es un tema de administración gratuito, modular y fácil de personalizar creado con Bootstrap 4, SASS y Pug.js.
+
+![presentacion](https://files.catbox.moe/dr996p.gif)
+
+#### Capa de aplicación
+
+- **PHP y JavaScript**
+
+PHPH es un lenguaje de programación de uso general que se adapta especialmente al desarrollo web. JavaScript es un lenguaje de programación o de secuencias de comandos que te permite implementar funciones complejas en páginas web
+
+![presentacion](https://files.catbox.moe/wsvwrw.png)
+
+#### Capa de datos
+
+- **MySQL**
+
+  Es un sistema de gestión de bases de datos relacionales (RDBMS) de código abierto respaldado por Oracle y basado en el lenguaje de consulta estructurado. ![](https://files.catbox.moe/ispxlk.png)
+
+
+#### Herramientas
+
+- **Visual Studio Code para editar el código de la app web con angular**
+
+ Es un editor de código fuente desarrollado por Microsoft para Windows, Linux y macOS.
+ 
+  ![](https://files.catbox.moe/le1ytf.png)
+ 
+- **SQLyog**
+
+ Es una herramienta GUI para RDBMS MySQL.
+ 
+ ![](https://files.catbox.moe/h2w6up.png)
+ 
+- **XAMPP**
+Paquete de software libre, que consiste principalmente en el sistema de gestión de bases de datos MySQL, el servidor web Apache y los intérpretes para lenguajes de script PHP y Perl.
+
+ ![](https://files.catbox.moe/3ff0m6.png)
+
