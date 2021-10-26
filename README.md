@@ -75,12 +75,12 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 * **Requerimientos funcionales:**
 
-   - **Se registra el usuario con los datos personales y se asigna un rol predeterminado en el sistema
-   - **Validar los privilegios del usuario dependiendo el rol asignado
-   - **Dar baja un usuario eliminandolo del sistema
-   - **Generar reporte de usuarios
-   - **Busqueda de usuarios
-   - **Acceso al sistema mediante usuario y contraseña
+   - Se registra el usuario con los datos personales y se asigna un rol predeterminado en el sistema
+   - Validar los privilegios del usuario dependiendo el rol asignado
+   - Dar baja un usuario eliminandolo del sistema
+   - Generar reporte de usuarios
+   - Busqueda de usuarios
+   - Acceso al sistema mediante usuario y contraseña
 
 ### 2. Gestion e inventario de producto
 
@@ -95,10 +95,10 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 * **Requerimientos funcionales:**
 
-   - **Poder ingresar nuevo producto
-   - **Buscar por producto
-   - **Poder ingresar nuevo stock de producto
-   - **Poder eliminar productos existentes
+   - Poder ingresar nuevo producto
+   - Buscar por producto
+   - Poder ingresar nuevo stock de producto
+   - Poder eliminar productos existentes
 
 ### 3. Gestion e inventario de producto
 
@@ -113,10 +113,10 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 * **Requerimientos funcionales:**
 
-   - **Poder ingresar nuevo producto
-   - **Buscar por producto
-   - **Poder ingresar nuevo stock de producto
-   - **Poder eliminar productos existentes
+   - Poder ingresar nuevo producto
+   - Buscar por producto
+   - Poder ingresar nuevo stock de producto
+   - Poder eliminar productos existentes
 
 ### 4. Generar reportes
 
@@ -129,7 +129,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
    - Se descarga o guarda el reporte generado
 
 * **Requerimientos funcionales:**
-  - **Poder generar y guardar reportes en PDF.
+  - Poder generar y guardar reportes en PDF.
 
 ## Requerimientos de interfaz
 
