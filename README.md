@@ -178,7 +178,7 @@ contendrá lo siguiente:
 - Links de videos tutoriales para que el usuario pueda comprender mejor 
 
 ### Facilidad de aprendizaje
-* El sistema está enfocado en ser sencillo para que el usuario pueda aprenderlo a 
+El sistema está enfocado en ser sencillo para que el usuario pueda aprenderlo a 
 utilizar de manera rápida y sencilla., para lograr esto el sistema cumplirá lo 
 siguiente:
 
@@ -194,7 +194,7 @@ ayude a entender qué debe poner para poder completar correctamente el
 campo. 
 
 ### Fácil acceso
-* Para garantizar la calidad del sistema se tomaran los siguientes aspectos para 
+Para garantizar la calidad del sistema se tomaran los siguientes aspectos para 
 tomar en cuenta:
 
 - __Eficiencia:__ Se reducirá el uso de recursos para tener una mayor 
