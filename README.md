@@ -16,7 +16,6 @@
     - [Mapa de navegación](#navmap)
     - [Prototipos UI](#ui)
     - [Implementacion](#implementacion)
-    - [Arquitectura](#arquitectura)
     - [Herramientas y Tecnologias](#herrramientas)
 
 
