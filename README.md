@@ -167,7 +167,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 ## Requerimientos no funcionales<a name="reqnofun"/>
 
 ### Usabilidad
-* El sistema contara con un manual de usuario para poder ayudarlo y guiarlo en 
+El sistema contara con un manual de usuario para poder ayudarlo y guiarlo en 
 el uso apropiado del sistema, de esta manera el usuario puede consultar 
 cualquier duda o inconveniente que se le presente. El manual de usuario 
 contendrá lo siguiente:
