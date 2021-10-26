@@ -197,11 +197,11 @@ campo.
 * Para garantizar la calidad del sistema se tomaran los siguientes aspectos para 
 tomar en cuenta:
 
-- Eficiencia: Se reducirá el uso de recursos para tener una mayor 
+- __Eficiencia:__ Se reducirá el uso de recursos para tener una mayor 
 rapidez al momento de utilizar el sistema.
 
-- Confiabilidad: El sistema mantendrá su rendimiento en cualquier 
+- __Confiabilidad:__ El sistema mantendrá su rendimiento en cualquier 
 circunstancia y con cualquier número de usuarios conectados.
 
-- Portabilidad. Este software será multiplataforma por lo que podrá ser 
+- __Portabilidad:__ Este software será multiplataforma por lo que podrá ser 
 utilizado en computadoras o cualquier dispositivo móvil
