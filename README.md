@@ -15,6 +15,11 @@
         - [Interfaz de Hardware](#interfazhard)
         - [Interfaz de Software](#interfazsoft)
     - [Requerimientos no funcionales](#reqnofun)
+        - [Usabilidad](#interfazsoft)
+        - [Facilidad de aprendizaje](#facilidad)
+        - [Diagnóstico y prevención de errores](#errores)
+        - [Facil Acceso](#facilacces)
+
 * [Analisis de Requerimientos](#analisisreq)
     - [Descomposición funcional](#descomposicion)
     - [Modelo logica de negocio](#modellogic)
@@ -178,7 +183,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 ## ` `Requerimientos no funcionales<a name="reqnofun"/>
 
-### Usabilidad
+### Usabilidad<a name="usabilidad"/>
 El sistema contara con un manual de usuario para poder ayudarlo y guiarlo en 
 el uso apropiado del sistema, de esta manera el usuario puede consultar 
 cualquier duda o inconveniente que se le presente. El manual de usuario 
@@ -189,7 +194,7 @@ contendrá lo siguiente:
 - Explicaciones señalando el componente del sistema
 - Links de videos tutoriales para que el usuario pueda comprender mejor 
 
-### Facilidad de aprendizaje
+### Facilidad de aprendizaje<a name="facilidad"/>
 El sistema está enfocado en ser sencillo para que el usuario pueda aprenderlo a 
 utilizar de manera rápida y sencilla., para lograr esto el sistema cumplirá lo 
 siguiente:
@@ -198,14 +203,14 @@ siguiente:
 - Interfaz amigable 
 - Fácil acceso
 
-###  Diagnóstico y prevención de errores
+###  Diagnóstico y prevención de errores<a name="errores"/>
 * Si se produce un error, proporcionar la información necesaria para que el 
 usuario entienda el fallo. Por ejemplo, en un formulario marcar en rojo un 
 campo obligatorio no rellenado con un mensaje de acompañamiento que 
 ayude a entender qué debe poner para poder completar correctamente el 
 campo. 
 
-### Fácil acceso
+### Fácil acceso<a name="facilacces"/>
 Para garantizar la calidad del sistema se tomaran los siguientes aspectos para 
 tomar en cuenta:
 
