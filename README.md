@@ -104,7 +104,7 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 
 ## ` `Entorno de ejecucion<a name="ejecucion"/>
 
-El sistema descrito en este documento debe ser ejecutado en un ambiente web(navegadores).
+El sistema descrito en este documento debe ser ejecutado en un ambiente web(navegadores) de manera local.
 
 ## ` `Requerimientos funcionales<a name="reqfun"/>
 
