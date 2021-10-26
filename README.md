@@ -275,6 +275,8 @@ Se muestran los casos de uso de los diferentes modulos del sistema.
 ![gestion](https://files.catbox.moe/535tpy.png)
 
 
+## ` `Capa de Datos<a name="datos"/>
+
 ### ` `Diagrama de entidad de relacion<a name="er"/>
 
 Se muestra el modelo de entidad de relacion de las diferentes tablas de la base de datos que conforma el sistema
