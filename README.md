@@ -1,3 +1,37 @@
+# Sistema Agroveterinaria
+# Indice
+* [Personal y roles del proyecto](#roles)
+* [Descripción de la metodología de trabajo](#DESCRIPCION)
+    - [Introduccion](#INTRODUCCION)
+    - [Proposito del proyecto](#PROPOSITO)
+    - [Objetivos](#objetivos)
+    - [Proposito del documento](#PROPOSITODOC)
+    - [Alcance](#ALCANCE)
+* [Metodologia Agil](#METODOLOGIA)
+    - [En que consiste la metodologia Scrum](#SCRUM)
+    - [Por que se escogio la metodologia Scrum](#PORQUE)
+
+* [Arquitectura de Capas](#analisis)
+    - [En que consiste la arquitectura de capas](#analisissec)
+    - [Por que se escogio la arquitectura de capas](#analisispor)
+
+* [Descripción General del proyecto](#GENERAL)
+    - [Herramientas y Tecnologias](#herramientas)
+    - [Funcionalidades del sistema](#FUNDAMENTO)
+    - [Requerimientos del sistema](#requerimientos)
+    - [Valores de trabajo](#VALORES)
+    - [Descripcion de Usuarios](#users)
+    - [Calendario de actividades](#ACTIVIDADES)
+    
+* [Artefactos](#Artefactos)
+    - [Pila de producto](#pilaprod)
+    - [Pila de sprint](#pilasprint)
+* [Diseño del sistema](#DIAGRAMA)
+    - [Diseño de Prototipo](#prototipo)
+    - [Casos de Uso](#casos)
+    - [Diagrama ER](#diagramaer)
+
+
 # Requerimientos de software
 
 ## Información del Proyecto
