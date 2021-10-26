@@ -253,15 +253,15 @@ La arquitectura que será implementada será la arquitectura en 3 capas, se enfo
   almacenamiento o de la recuperación de información. Es necesario contar con personal capacitado para el desarrollo 
   y construcción de los datos, ya que sin estos el sistema desarrollado no funcionara correctamente. 
 
+## ` `Capa de Negocio<a name="modellogica"/>
+
+Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
+
 ## ` `Descomposición funcional<a name="descomposicion"/>
 
 Diagrama en donde se descomponen los componentes de los modulos del sistema
 
 ![descomposición funcional](https://files.catbox.moe/d01dem.png)
-
-## ` `Capa de Negocio<a name="modellogica"/>
-
-Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
 
 ### ` `Diagramas de casos de uso<a name="casos"/>
 
