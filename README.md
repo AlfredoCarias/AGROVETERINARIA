@@ -168,7 +168,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 #### ` `Componentes<a name="componentes"/>
 1. Menu principal.
 2. Login del sistema
-3. Informacion de usuario logeado
+3. Brindar informacion de usuario logeado
 
 ### ` `Interfaces de hardware<a name="interfazhard"/>
 
