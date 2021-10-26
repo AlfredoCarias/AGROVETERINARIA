@@ -19,7 +19,6 @@
         - [Facilidad de aprendizaje](#facilidad)
         - [Diagnóstico y prevención de errores](#errores)
         - [Facil Acceso](#facilacces)
-
 * [Analisis de Requerimientos](#analisisreq)
     - [Descomposición funcional](#descomposicion)   
     - [Modelo logica de negocio](#modellogic)
