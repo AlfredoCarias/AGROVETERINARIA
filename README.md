@@ -36,7 +36,7 @@
          - [Herramientas](#herr)
 * [Planificacion de Acividades](#planificacion)
     - [Metodologia Seleccionada](#SCRUM)
-    - [Cronograma de Actividades](#ACTVIDADES)
+    - [Cronograma de Actividades](#ACTIVIDADES)
 
 
 
