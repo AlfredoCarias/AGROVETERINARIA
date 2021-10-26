@@ -15,7 +15,7 @@
         - [Interfaz de Hardware](#interfazhard)
         - [Interfaz de Software](#interfazsoft)
     - [Requerimientos no funcionales](#reqnofun)
-        - [Usabilidad](#interfazsoft)
+        - [Usabilidad](#usabilidad)
         - [Facilidad de aprendizaje](#facilidad)
         - [Diagnóstico y prevención de errores](#errores)
         - [Facil Acceso](#facilacces)
