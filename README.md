@@ -21,12 +21,17 @@
         - [Facil Acceso](#facilacces)
 
 * [Analisis de Requerimientos](#analisisreq)
-    - [Descomposición funcional](#descomposicion)
+    - [Descomposición funcional](#descomposicion)   
     - [Modelo logica de negocio](#modellogic)
-    - [Mapa de navegación](#navmap)
+        - [Diagramas de Casos de Uso](#casos)
+        - [Diagrama de Entidad de Relacion](#er)
+        - [Mapa de navegación](#navmap)
     - [Prototipos UI](#ui)
     - [Implementacion](#implementacion)
-    - [Herramientas y Tecnologias](#herrramientas)
+        - [Arquitectura](#arquitectura)
+        - [Herramientas y Tecnologias](#herrramientas)
+            - [Tecnologias](#tec)
+            - [Herramientas](#herr)
 
 
 
@@ -236,7 +241,7 @@ Diagrama en donde se descomponen los componentes de los modulos del sistema
 
 Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
 
-### Diagramas de casos de uso
+### Diagramas de casos de uso<a name="casos"/>
 
 Se muestran los casos de uso de los diferentes modulos del sistema.
 
@@ -249,13 +254,13 @@ Se muestran los casos de uso de los diferentes modulos del sistema.
 ![gestion](https://files.catbox.moe/535tpy.png)
 
 
-### Modelo relación entidad
+### Diagrama de entidad de relacion<a name="er"/>
 
 Se muestra el modelo de entidad de relacion de las diferentes tablas de la base de datos que conforma el sistema
 
 ![er](https://files.catbox.moe/nswc1p.PNG)
 
-## Mapa de navegación<a name="navmap"/>
+### Mapa de navegación<a name="navmap"/>
 
 En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
@@ -291,36 +296,37 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 
 ## ` `Implementación<a name="implementacion"/>
 
-### Arquitectura<a name="arquitectura"/>
+### ` `Arquitectura<a name="arquitectura"/>
 
 La arquitectura que será implementada será la arquitectura en 3 capas, se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
 
-### **Capa de Presentacion**
+![arquitectura](https://files.catbox.moe/ynzm7t.png)
+
+#### **Capa de Presentacion**
   
 * En esta se gestiona lo que el usuario ve, es la presentación al usuario, le comunica y captura la información del 
   usuario en el menor tiempo posible. Contiene la interfaz gráfica y debe de ser amigable y cómodo para el usuario; 
   esta capa se comunica con la capa de negocio. 
 
-### **Capa de Negocio**
+#### **Capa de Negocio**
   
 * Esta capa residen los programas que se ejecutan, reciben las peticiones de usuario y envían las respuestas tras el 
   proceso. Aquí se establecen todas las reglas a cumplirse. Se comunica con la capa de presentación, para recibir y 
   enviar los resultados, y con la capa de datos, para poder solicitar almacenar o recuperar datos del gestor. 
 
-### **Capa de Datos**
+#### **Capa de Datos**
 
 * Es la encargada de residir los datos y se encarga de acceder a los mismos. Esta se encuentra formada por uno o más 
   gestores de bases de datos en los que se realizan el almacenamiento de los datos, reciben las solicitudes de 
   almacenamiento o de la recuperación de información. Es necesario contar con personal capacitado para el desarrollo 
   y construcción de los datos, ya que sin estos el sistema desarrollado no funcionara correctamente. 
 
-![arquitectura](https://files.catbox.moe/ynzm7t.png)
 
 ### ` `Herramientas y Tecnologias<a name="herrramientas"/>
 
 Se detallan las herramientas y tecnologías a usar para el desarrollo del proyecto.
 
-#### Tecnologías
+#### Tecnologías<a name="tec"/>
 
 #### Capa de presentación
 
@@ -347,7 +353,7 @@ PHPH es un lenguaje de programación de uso general que se adapta especialmente 
   ![mysql](https://files.catbox.moe/omdk3w.jpg)
 
 
-#### Herramientas
+#### Herramientas<a name="herr"/>
 
 - **Visual Studio Code para editar el código de la app web con angular**
 
