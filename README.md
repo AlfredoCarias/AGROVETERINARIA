@@ -10,6 +10,14 @@
     - [Requerimientos funcionales](#reqfun)
     - [Requerimientos de interfaz](#reqint)
     - [Requerimientos no funcionales](#reqnofun)
+* [Analisis de Requerimientos](#analisisreq)
+    - [Descomposición funcional](#descomposicion)
+    - [Modelo logica de negocio](#modellogic)
+    - [Mapa de navegación](#navmap)
+    - [Prototipos UI](#ui)
+    - [Implementacion](#implementacion)
+    - [Arquitectura](#arquitectura)
+    - [Herramientas y Tecnologias](#herramientas)
 
 
 
@@ -209,13 +217,13 @@ utilizado en computadoras o cualquier dispositivo móvil
 
 # Análisis de requerimientos<a name="analisisreq"/>
 
-## Descomposición funcional
+## Descomposición funcional<a name="descomposicion"/>
 
 Diagrama en donde se descomponen los componentes de los modulos del sistema
 
 ![descomposición funcional](https://files.catbox.moe/d01dem.png)
 
-## Modelado de la lógica de negocio
+## Modelo logica de negocio<a name="modellogica"/>
 
 Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
 
@@ -238,13 +246,13 @@ Se muestra el modelo de entidad de relacion de las diferentes tablas de la base 
 
 ![er](https://files.catbox.moe/nswc1p.PNG)
 
-## Mapa de navegación
+## Mapa de navegación<a name="navmap"/>
 
 En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
 ![mapa de navegacion](https://files.catbox.moe/gd0nti.png)
 
-## Prototipos UI
+## Prototipos UI<a name="ui"/>
 
 Se presentan los bocetos de los conceptos de las interfaces gráficas del sistema
 
@@ -272,9 +280,9 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 ![Calendario](https://files.catbox.moe/3piqz8.PNG)
 
 
-## Implementación
+## Implementación<a name="implementacion"/>
 
-### Arquitectura
+### Arquitectura<a name="arquitectura"/>
 
 La arquitectura que será implementada será la arquitectura en 3 capas, se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
 
@@ -299,7 +307,7 @@ La arquitectura que será implementada será la arquitectura en 3 capas, se enfo
 
 ![arquitectura](https://files.catbox.moe/ynzm7t.png)
 
-### Herramientas y Tecnologias
+### Herramientas y Tecnologias<a name="herrramientas"/>
 
 Se detallan las herramientas y tecnologías a usar para el desarrollo del proyecto.
 
