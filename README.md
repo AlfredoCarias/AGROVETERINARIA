@@ -253,10 +253,7 @@ La arquitectura que será implementada será la arquitectura en 3 capas, se enfo
   almacenamiento o de la recuperación de información. Es necesario contar con personal capacitado para el desarrollo 
   y construcción de los datos, ya que sin estos el sistema desarrollado no funcionara correctamente. 
 
-## ` `Capa de Negocio<a name="modellogica"/>
-
-Diagrama en donde se presentan todos los procesos que la conforman y poder entender mejor el funcionamiento.
-
+## ` ` **Capa de Negocio**<a name="modellogica"/>
 ## ` `Descomposición funcional<a name="descomposicion"/>
 
 Diagrama en donde se descomponen los componentes de los modulos del sistema
@@ -281,7 +278,7 @@ En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
 ![mapa de navegacion](https://files.catbox.moe/gd0nti.png)
 
-## ` `Capa de Datos<a name="datos"/>
+## ` ` **Capa de Datos**<a name="datos"/>
 
 ### ` `Diagrama de entidad de relacion<a name="er"/>
 
@@ -290,7 +287,7 @@ Se muestra el modelo de entidad de relacion de las diferentes tablas de la base 
 ![er](https://files.catbox.moe/nswc1p.PNG)
 
 
-## Capa de Interfaz(Prototipo UI)<a name="ui"/>
+## ` ` **Capa de Interfaz(Prototipo UI)**<a name="ui"/>
 
 Se presentan los bocetos de los conceptos de las interfaces gráficas del sistema
 
