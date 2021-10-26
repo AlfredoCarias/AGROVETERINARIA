@@ -274,6 +274,11 @@ Se muestran los casos de uso de los diferentes modulos del sistema.
 
 ![gestion](https://files.catbox.moe/535tpy.png)
 
+### ` `Mapa de navegación<a name="navmap"/>
+
+En esta grafica se muestra las diferentes funciones que contiene cada modulo.
+
+![mapa de navegacion](https://files.catbox.moe/gd0nti.png)
 
 ## ` `Capa de Datos<a name="datos"/>
 
@@ -283,11 +288,6 @@ Se muestra el modelo de entidad de relacion de las diferentes tablas de la base 
 
 ![er](https://files.catbox.moe/nswc1p.PNG)
 
-### ` `Mapa de navegación<a name="navmap"/>
-
-En esta grafica se muestra las diferentes funciones que contiene cada modulo.
-
-![mapa de navegacion](https://files.catbox.moe/gd0nti.png)
 
 ## Capa de Interfaz(Prototipo UI)<a name="ui"/>
 
