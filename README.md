@@ -98,7 +98,8 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 |  No.    | Tipo de usuario  |  Descripcion  	                                                                                      |
 |---	  |---	             |---	                                                                                                  |
 |1	      |Administrador	 |Se encarga de gestionar los usuario y sus privilegios, asi como el control total del sistema.           |
-|2        |Empleado	         |Tiene los privilegios de poder agregar citas y gestionar los productos                                  |
+|2	      |Cliente	 |Este usuario solo es para poder ingresarlo en el registro de ventas.           |
+|3        |Empleado	         |Tiene los privilegios de poder agregar citas y gestionar los productos                                  |
 
 
 ## ` `Entorno de ejecucion<a name="ejecucion"/>
