@@ -215,28 +215,13 @@ siguiente:
 
 - Sistema de controles simples
 - Interfaz amigable 
-- Fácil acceso
 
 ###  ` `Diagnóstico y prevención de errores<a name="errores"/>
 * Si se produce un error, proporcionar la información necesaria para que el 
-usuario entienda el fallo. Por ejemplo, en un formulario marcar en rojo un 
+usuario entienda el fallo. Por ejemplo, en un formulario marcar en un 
 campo obligatorio no rellenado con un mensaje de acompañamiento que 
 ayude a entender qué debe poner para poder completar correctamente el 
 campo. 
-
-### ` `Fácil acceso<a name="facilacces"/>
-Para garantizar la calidad del sistema se tomaran los siguientes aspectos para 
-tomar en cuenta:
-
-- __Eficiencia:__ Se reducirá el uso de recursos para tener una mayor 
-rapidez al momento de utilizar el sistema.
-
-- __Confiabilidad:__ El sistema mantendrá su rendimiento en cualquier 
-circunstancia y con cualquier número de usuarios conectados.
-
-- __Portabilidad:__ Este software será multiplataforma por lo que podrá ser 
-utilizado en computadoras o cualquier dispositivo móvil
-
 
 # ` `Análisis de requerimientos<a name="analisisreq"/>
 
