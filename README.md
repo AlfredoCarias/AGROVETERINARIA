@@ -91,7 +91,8 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 | 1 |  Control de roles y usuarios | Administrar los privilegios de los roles para cada tipo de usuario, basandose en su funcion. |
 | 2 | Gestion e inventario de Producto | Contar con control de los producto teniendo la opcion de poder agregar, vender, eliminar o comprar.|
 | 3 | Gestion de Citas | Poder agregar o eliminar citas en un calendario web para poder llevar un orden de las mismas.|
-| 4 | Reportes | Poder generar reportes de las diferentes funciones del sistema para tener un mayor control.|
+| 4 | Area de notificaciones | Poder notificar mediante correr electronico.|
+| 5 | Reportes | Poder generar reportes de las diferentes funciones del sistema para tener un mayor control.|
 
 ## ` `Tipos de usuarios<a name="usuarios"/>
 
@@ -141,21 +142,30 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
    - Poder ingresar nuevo stock de producto
    - Poder eliminar productos existentes
 
-### 3. Gestion e inventario de producto
+### 3. Gestion de citas
 
-* **Descripción:** Manejo de los productos que se encuentran en el sistema.
-   - Ingreso de un producto nuevo
-   - Se genera un modal con los datos solicitados
+* **Descripción:** Manejo de las citas que se encuentran en el sistema.
+   - Ingresar nueva cita
+   - Se llena un formulario que solicita los datos a ingresar
    - Se llenan los datos
    - Se validadn los datos y se guardan
    - Se muestran los datos en una tabla
 
 * **Requerimientos funcionales:**
 
-   - Poder ingresar nuevo producto
-   - Buscar por producto
-   - Poder ingresar nuevo stock de producto
-   - Poder eliminar productos existentes
+   - Poder ingresar citas nuevas
+   - Buscar citas
+   - Poder eliminar citas existentes
+
+### 4. Generar de notificacion
+
+* **Descripción:** Enviar notificacion al correo electronico
+
+   - Se ingresa el correo de la persona en un formulario para el envio.
+   - Se envia el correo a la persona de destino.
+
+* **Requerimientos funcionales:**
+  - Poder notificar por correo electronico.
 
 ### 4. Generar reportes
 
