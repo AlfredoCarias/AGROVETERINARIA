@@ -167,7 +167,7 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 * **Requerimientos funcionales:**
   - Poder notificar por correo electronico.
 
-### 4. Generar reportes
+### 5. Generar reportes
 
 * **Descripción:** Generación de reportes en formato PDF
 
