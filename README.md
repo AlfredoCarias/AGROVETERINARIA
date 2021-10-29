@@ -89,10 +89,12 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 | No. | Funcionalidad  | Descripción  |
 |---  |---             |---           |
 | 1 |  Control de roles y usuarios | Administrar los privilegios de los roles para cada tipo de usuario, basandose en su funcion. |
-| 2 | Gestion e inventario de Producto | Contar con control de los producto teniendo la opcion de poder agregar, vender, eliminar o comprar.|
+| 2 | Gestion e inventario de Producto | Contar con control de los producto teniendo la opcion de poder agregar o eliminar.|
 | 3 | Gestion de Citas | Poder agregar o eliminar citas en un calendario web para poder llevar un orden de las mismas.|
 | 4 | Area de notificaciones | Poder notificar mediante correr electronico.|
 | 5 | Reportes | Poder generar reportes de las diferentes funciones del sistema para tener un mayor control.|
+| 6 | Compra y Venta | Poder realizar una venta  un cliente o comprar producto para abastecer stock.|
+
 
 ## ` `Tipos de usuarios<a name="usuarios"/>
 
@@ -177,6 +179,28 @@ El sistema descrito en este documento debe ser ejecutado en un ambiente web(nave
 
 * **Requerimientos funcionales:**
   - Poder generar y guardar reportes en PDF.
+
+### 6. Compra y Venta
+
+* **Descripción:** Vender productos
+
+   - Se solicitan los datos del cliente a vender
+   - Se selecciona el producto y la cantidad a vender
+   - Se descarga o guarda la factura
+   - Se genera la venta.
+
+* **Requerimientos funcionales:**
+  - Actualizar stock del producto al vender.
+  - Generar el recibo de venta
+
+* **Descripción:** Comprar productos
+
+   - Se selecciona el producto a actualizar stock
+   - Se ingresa la cantidad a agregar
+   - Se actualiza el stock
+
+* **Requerimientos funcionales:**
+  - Actualizar el stock del producto
 
 ## ` `Requerimientos de interfaz<a name="reqint"/>
 
