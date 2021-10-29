@@ -324,7 +324,7 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 
 #### ` `Modulo Usuarios
 
-![Usuarios](https://files.catbox.moe/zgj06u.png)
+![Usuarios](https://files.catbox.moe/c0szoy.png)
 ![Roles](https://files.catbox.moe/gwv0p1.png)
 ![Clientes](https://files.catbox.moe/rol955.png)
 
