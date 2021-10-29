@@ -475,7 +475,14 @@ Responsabilidades del equipo de diseño
 |  Sprint#2 02/10/2021	| [Desarrollo permisos de usuarios](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/16)	|![](https://files.catbox.moe/bkkgr7.png)	|
 |  Sprint#2 02/10/2021	| [Desarrollo del modulo reportes](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/6)	|![](https://files.catbox.moe/y9qmm9.png)	|
 |  Sprint#2 02/10/2021	| [Desarrollo login de usuarios](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/3)	|![](https://files.catbox.moe/ttiynd.png)	|
-
+|  Sprint#3 09/10/2021	| [Desarrollo modulo usuarios](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/21)|![](https://files.catbox.moe/retktx.png)	|
+|  Sprint#3 09/10/2021	| [Desarrollo Modulo Clientes](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/22)|![](https://files.catbox.moe/omx770.png)	|
+|  Sprint#3 09/10/2021	| [Diseñar modulos de interfaz](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/4)|![](https://files.catbox.moe/rgijsf.png)	|
+|  Sprint#3 09/10/2021	| [Diseñar Calendario para el sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/2)|![](https://files.catbox.moe/d7c6wg.png)	|
+|  Sprint#4 16/10/2021	| [Desarrollo modulo productos ](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/30)|![](https://files.catbox.moe/sotnse.png)	|
+|  Sprint#4 16/10/2021	| [Desarrollo modulo roles ](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/29)|![](https://files.catbox.moe/hjglmy.png)	|
+|  Sprint#4 16/10/2021	| [Desarrollo modulo categorias ](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/31)|![](https://files.catbox.moe/0x7wdo.png)	|
+|  Sprint#4 16/10/2021	| [Segunda Presentacion Avances ](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/11)|![](https://files.catbox.moe/ys9d3m.png)	|
 
 ##  ` `Calendario de revisiones<a name="revisiones"/>
 
