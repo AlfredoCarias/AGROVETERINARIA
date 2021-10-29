@@ -347,12 +347,12 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 
 #### ` `Modulo Reportes
 
-![ReporteV](https://files.catbox.moe/37uimw.png)
-![ReporteB](https://files.catbox.moe/37uimw.png)
-![REporteU](https://files.catbox.moe/37uimw.png)
-![ReporteC](https://files.catbox.moe/37uimw.png)
-![ReporteCT](https://files.catbox.moe/37uimw.png)
-![Bitacora](https://files.catbox.moe/37uimw.png)
+![ReporteV](https://files.catbox.moe/5fn45z.png)
+![ReporteB](https://files.catbox.moe/79w6ci.png)
+![REporteU](https://files.catbox.moe/89rdzh.png)
+![ReporteC](https://files.catbox.moe/lu97do.png)
+![ReporteCT](https://files.catbox.moe/qrnz9p.png)
+![Bitacora](https://files.catbox.moe/f1zfxk.png)
 
 
 
