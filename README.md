@@ -471,7 +471,6 @@ Responsabilidades del equipo de diseño
 |  Sprint#1 25/09/2021	| [Diseño de la Base de Datos (ER)](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/5)	|![](https://files.catbox.moe/h94vsi.png)	|
 |  Sprint#1 25/09/2021	| [Diseñar Menu del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/1)	|![](https://files.catbox.moe/75yxyz.png)	|
 |  Sprint#1 25/09/2021	| [Planificacion de Actividades](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/9)	|![](https://files.catbox.moe/pglluh.png)	|
-
 |  Sprint#2 02/10/2021	| [Diseñar y Desarrollar Dashboard](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/15)	|![](https://files.catbox.moe/12n6ju.png)	|
 |  Sprint#2 02/10/2021	| [Desarrollo permisos de usuarios](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/16)	|![](https://files.catbox.moe/bkkgr7.png)	|
 |  Sprint#2 02/10/2021	| [Desarrollo del modulo reportes](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/6)	|![](https://files.catbox.moe/y9qmm9.png)	|
