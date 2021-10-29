@@ -34,7 +34,7 @@
     - [Herramientas y Tecnologias](#herrramientas)
          - [Tecnologias](#tec)
          - [Herramientas](#herr)
-* [Planificacion de Acividades](#planificacion)
+* [Planificacion de Actividades](#planificacion)
     - [Metodologia Seleccionada](#SCRUM)
     - [Roles](#rolesscrum)
     - [Cronograma de Actividades](#ACTIVIDADES)
