@@ -100,7 +100,7 @@ Con la realizacion de este proyecto se tomaron en cuenta a cumplir los siguiente
 |---	  |---	             |---	                                                                                                  |
 |1	      |Administrador	 |Se encarga de gestionar los usuario y sus privilegios, asi como el control total del sistema.           |
 |2	      |Cliente	 |Este usuario solo es para poder ingresarlo en el registro de ventas.           |
-|3        |Empleado	         |Tiene los privilegios de poder gestionar las citas y gestionar los productos pudiendo realizar ventas o compra               |
+|3        |Vendedor	         |Tiene los privilegios de poder gestionar las citas y gestionar los productos pudiendo realizar ventas o compra               |
 
 
 ## ` `Entorno de ejecucion<a name="ejecucion"/>
