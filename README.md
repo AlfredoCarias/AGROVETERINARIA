@@ -320,27 +320,40 @@ Se presentan los bocetos de los conceptos de las interfaces gráficas del sistem
 
 #### ` `Modulo Dashboard
 
-![Dashboard](https://files.catbox.moe/cfqgcg.png)
+![Dashboard](https://files.catbox.moe/zgj06u.png)
 
 #### ` `Modulo Usuarios
 
-![Usuarios](https://files.catbox.moe/vho8xc.png)
+![Usuarios](https://files.catbox.moe/zgj06u.png)
 ![Roles](https://files.catbox.moe/gwv0p1.png)
-![Clientes](https://files.catbox.moe/3o5mdj.png)
+![Clientes](https://files.catbox.moe/rol955.png)
 
 #### ` `Modulo Bodega
 
-![Productos](https://files.catbox.moe/lmi6f2.png)
-![Categorias](https://files.catbox.moe/8hocpq.png)
+![Productos](https://files.catbox.moe/vbzjxk.png)
+![Categorias](https://files.catbox.moe/k6vlfm.png)
 
 #### ` `Modulo Tienda
 
-![Productos](https://files.catbox.moe/c8k37y.png)
+![Venta](https://files.catbox.moe/fpw5bd.png)
+![Compra](https://files.catbox.moe/7gbnuf.png)
+
 
 #### ` `Modulo Citas
 
-![Citas](https://files.catbox.moe/nu79ld.png)
-![Calendario](https://files.catbox.moe/tbhdev.png)
+![Citas](https://files.catbox.moe/37uimw.png)
+![Calendario](https://files.catbox.moe/se796j.png)
+![Notificacion](https://files.catbox.moe/kp95m6.png)
+
+#### ` `Modulo Reportes
+
+![ReporteV](https://files.catbox.moe/37uimw.png)
+![ReporteB](https://files.catbox.moe/37uimw.png)
+![REporteU](https://files.catbox.moe/37uimw.png)
+![ReporteC](https://files.catbox.moe/37uimw.png)
+![ReporteCT](https://files.catbox.moe/37uimw.png)
+![Bitacora](https://files.catbox.moe/37uimw.png)
+
 
 
 ### ` `Herramientas y Tecnologias<a name="herrramientas"/>
