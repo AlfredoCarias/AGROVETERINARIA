@@ -484,6 +484,13 @@ Responsabilidades del equipo de diseño
 |  Sprint#4 16/10/2021	| [Desarrollo modulo categorias](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/31)|![](https://files.catbox.moe/0x7wdo.png)	|
 |  Sprint#4 16/10/2021	| [Segunda Presentacion Avances](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/11)|![](https://files.catbox.moe/ys9d3m.png)	|
 |  Sprint#5 23/10/2021	| [Desarrollo modulo citas](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/32)|![](https://files.catbox.moe/qc7ytp.png)	|
+|  Sprint#5 23/10/2021	| [Desarrollo Venta de producto](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/26)|![](https://files.catbox.moe/36c0q6.png)	|
+|  Sprint#5 23/10/2021	| [Desarrollo funcion Eliminar](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/19)|![](https://files.catbox.moe/97rrf6.png)	|
+
+|  Sprint#6 30/10/2021	| [Finalizacion Analisis del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/8)|![](https://files.catbox.moe/u1wzfe.png)	|
+|  Sprint#6 30/10/2021	| [Desarrollo Notificacion por Correo](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/27)|![](https://files.catbox.moe/5bh5ta.png)	|
+|  Sprint#6 30/10/2021	| [Desarrollo de Compras ](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/28)|![](https://files.catbox.moe/essi1u.png)	|
+|  Sprint#6 30/10/2021	| [Presentacion Final del Proyecto](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/34)|![](https://files.catbox.moe/qdj10q.png)	|
 
 ##  ` `Calendario de revisiones<a name="revisiones"/>
 
