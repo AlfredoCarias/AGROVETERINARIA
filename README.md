@@ -51,7 +51,7 @@
 
 | Nombre  | Descripción  |
 |---|---|
-| Nombre Proyecto  | Agroveterinaria  |
+| Nombre Proyecto  | Agroveterinaria Huellita |
 | Desarrollador  | Alfredo Loyo |
 
 ## ` `Propósito<a name="proposito"/>
