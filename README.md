@@ -299,8 +299,7 @@ Se muestran los casos de uso de los diferentes modulos del sistema.
 
 En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
-![mapa de navegacion](https://files.catbox.moe/gd0nti.png)
-![mp](https://files.catbox.moe/9o026h.png)
+![mapa de navegacion](https://files.catbox.moe/4pgh0w.png)
 
 ## ` ` **Capa de Datos**<a name="datos"/>
 
