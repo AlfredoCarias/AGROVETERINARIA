@@ -572,9 +572,12 @@ Se realizaron las pruebas de tipo manual e interfaz para la correcta integridad 
 
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
 
-* En la capa de interfaz se tomó como referencia el tema visto de D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.
-![](https://files.catbox.moe/n3dzul.jpg)
+| Tema |  Descripcion|
+|---|---|
+|  UI/UX |  En la capa de interfaz se tomó como referencia el tema visto de D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.| 
+| Usabilidad  |Primera Presentación de Avances Proyecto Final|
+| Servicios REST  |Se utilizo el servicio REST en el sistema para la ejecucion de las funciones de mostra, eliminar y crear, que al momento de no ejecutar ninguna de esas funciones mandara un mensaje de error|
+| Diagramas de Casos de Uso | Presentación Proyecto Final|
+| Enfoque Estrategico | En el entorno de pruebas se tomó en cuenta el tema visto de Enfoque Estratégico para la ejecución de las pruebas realizadas al sistema.|
 
-* En el entorno de pruebas se tomó en cuenta el tema visto de Enfoque Estratégico para la ejecución de las pruebas realizadas al sistema.
-![](https://files.catbox.moe/mj9yhl.jpg)
 
