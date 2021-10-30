@@ -505,6 +505,10 @@ Responsabilidades del equipo de diseño
 
 # ` `Plan de Pruebas<a name="pruebas"/>
 
+| Tipo de Prueba  | Descripción  |
+|---|---|
+| Login de Usuario  | Agroveterinaria  |
+| Desarrollador  | Alfredo Loyo |
 
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
 
