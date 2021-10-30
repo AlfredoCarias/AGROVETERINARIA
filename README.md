@@ -287,7 +287,7 @@ Diagrama en donde se descomponen los componentes de los modulos del sistema
 
 Se muestran los casos de uso de los diferentes modulos del sistema.
 
-![sistema](https://files.catbox.moe/jccvr6.png)
+![sistema](https://files.catbox.moe/iodw42.png)
 
 ![gestion](https://files.catbox.moe/u1nquz.png)
 
