@@ -504,6 +504,8 @@ Responsabilidades del equipo de diseño
 | Fase 4  | Presentación Proyecto Final| 30/10/2021|
 
 # ` `Plan de Pruebas<a name="pruebas"/>
+## ` `Tipo de Prueba
+Se realizaron las pruebas de tipo manual e interfaz para la correcta integridad y funcionalidad de los diferentes modulos.
 
 |**NOMBRE**|**Iniciar sesión**|PRUEBAS|**P1**|
 | :- | :- | :- | :- |
@@ -516,16 +518,27 @@ Responsabilidades del equipo de diseño
 |**Módulos Asociados**|- Login|
 
 
-|NOMBRE|**Gestion de Usuarios**|PRUEBAS|**P2**|
+|NOMBRE|**Creacion y eliminacion de datos**|PRUEBAS|**P2**|
 | :- | :- | :- | :- |
-|PROPÓSITO|Verificar que si es posible crear, eliminar usuarios.|
+|PROPÓSITO|Verificar que si es posible crear, eliminar en los modulos: usuarios, clientes, roles, productos, categorias y citas.|
 |PRERREQUISITOS|- Existen requerimientos en la base de datos.|
-|UBICACIÓN|Base de datos MySQL, pantalla de usuarios|
+|UBICACIÓN|Base de datos MySQL, pantalla de modulos antes mencionados|
 |ENTRADA|- Seleccionar un requerimiento|
-|	|<p>- Selección de la acción que desea hacer</p><p>&emsp;- Crear usuario</p><p>&emsp;- Eliminar relación</p><p></p>|
-|ORÁCULO|<p>Cambio en la tabla de usuarios</p><p></p><p>- (PARA CREAR) La base de datos se encuentra actualizada con el nuevo usuario</p><p>- ` `(PARA ELIMINAR)La base de datos se encuentra actualizada con la eliminación del usuario</p>|
-|PASOS|<p>**PARA CREAR**</p><p>1. Visitar la pantalla de usuarios.</p><p>2. Seleccionar nuevo.</p><p>3. Llenar los datos</p><p>4. Clic en crear.</p><p>**PARA ELIMINAR**</p><p>1. Visitar la pantalla de usuarios.</p><p>2. Seleccionar eliminar.</p><p>3. Clic en “eliminar”.</p><p>4. Clic en “aceptar”</p>|
-|**Módulos Asociados**|- Módulo de reportes de usuarios|
+|	|<p>- Selección de la acción que desea hacer</p><p>&emsp;- Crear</p><p>&emsp;- Eliminar</p><p></p>|
+|ORÁCULO|<p>Cambio en la tabla de informacion</p><p></p><p>- (PARA CREAR) La base de datos se encuentra actualizada con el nuevo ingreso</p><p>- ` `(PARA ELIMINAR)La base de datos se encuentra actualizada con la eliminación del dato</p>|
+|PASOS|<p>**PARA CREAR**</p><p>1. Visitar la pantalla de usuarios, clientes o roles.</p><p>2. Seleccionar nuevo.</p><p>3. Llenar los datos</p><p>4. Clic en crear.</p><p>**PARA ELIMINAR**</p><p>1. Visitar la pantalla de usuarios.</p><p>2. Seleccionar eliminar.</p><p>3. Clic en “eliminar”.</p><p>4. Clic en “aceptar”</p>|
+|**Módulos Asociados**|- Módulo de reportes|
+
+|NOMBRE|**Generar Reportes en PDF**|PRUEBAS|**P18**|
+| :- | :- | :- | :- |
+|PROPÓSITO|<p>Verificar que la generación de reportes se realiza con la información</p><p>correspondiente al proyecto.</p>|
+|PRERREQUISITOS|<p>- Requerimientos previamente creados</p><p></p>|
+|UBICACIÓN|Base de datos MySQL y Pantalla Reportes|
+|ENTRADA|Reporte seleccionado.|
+|ORÁCULO|El usuario puede acceder al archivo de PDF, debe contener la misma información que se  muestra en la aplicación.|
+|PASOS|<p>1. Visitar la pantalla de “Reportes”.</p><p>**GENERAL**</p><p>2. Seleccionar el tipo de reporte</p><p>3. Esperar que abra el archivo.</p><p>4. Verificar información (que coincida con la que se muestra en el sistema.</p><p>5. Guardar o imprimir el archivo</p><p></p><p>**REQUERIMIENTOS SELECCIONADOS**</p><p>2. Seleccionar los requerimientos que desea en el informe.</p><p>3. Clic en “Guardar”.</p><p>4. Esperar que abra el archivo.</p><p>5. Verificar información (que coincida con la que se muestra en el sistema.</p><p></p><p></p>|
+|**Módulos Asociados**|- Módulo de reportes|
+
 
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
 
