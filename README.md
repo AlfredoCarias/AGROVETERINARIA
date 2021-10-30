@@ -39,6 +39,7 @@
     - [Roles](#rolesscrum)
     - [Cronograma de Actividades](#ACTIVIDADES)
     - [Calendario de Revisiones](#revisiones)
+* [Temas Relacionados con el Proyecto](#temas)
 
 
 
