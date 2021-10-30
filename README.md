@@ -282,7 +282,6 @@ La arquitectura que será implementada será la arquitectura en 3 capas, se enfo
 Diagrama en donde se descomponen los componentes de los modulos del sistema
 
 ![descomposición funcional](https://files.catbox.moe/d01dem.png)
-![descomposición funcional](https://files.catbox.moe/9o026h.png)
 
 ### ` `Diagramas de casos de uso<a name="casos"/>
 
@@ -301,6 +300,7 @@ Se muestran los casos de uso de los diferentes modulos del sistema.
 En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
 ![mapa de navegacion](https://files.catbox.moe/gd0nti.png)
+![mp](https://files.catbox.moe/9o026h.png)
 
 ## ` ` **Capa de Datos**<a name="datos"/>
 
