@@ -502,6 +502,9 @@ Responsabilidades del equipo de diseño
 | Fase 3  |Segunda Presentación de Avances Proyecto Final| 26/10/2021|
 | Fase 4  | Presentación Proyecto Final| 30/10/2021|
 
+# ` `Plan de Pruebas<a name="pruebas"/>
+
+
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
 
 * En la capa de interfaz se tomó como referencia el tema visto de D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.
