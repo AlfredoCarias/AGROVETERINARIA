@@ -307,7 +307,7 @@ En esta grafica se muestra las diferentes funciones que contiene cada modulo.
 
 Se muestra el modelo de entidad de relacion de las diferentes tablas de la base de datos que conforma el sistema
 
-![er](https://files.catbox.moe/nswc1p.PNG)
+![er](https://files.catbox.moe/ydyno2.png)
 
 
 ## ` ` **Capa de Interfaz(Prototipo UI)**<a name="ui"/>
