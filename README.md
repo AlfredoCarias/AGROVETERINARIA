@@ -289,11 +289,11 @@ Se muestran los casos de uso de los diferentes modulos del sistema.
 
 ![sistema](https://files.catbox.moe/iodw42.png)
 
-![gestion](https://files.catbox.moe/u1nquz.png)
+![gestion](https://files.catbox.moe/w6qdnc.png)
 
-![gestion](https://files.catbox.moe/59nuxf.png)
+![gestion](https://files.catbox.moe/l9tupo.png)
 
-![gestion](https://files.catbox.moe/535tpy.png)
+![gestion](https://files.catbox.moe/psalnx.png)
 
 ### ` `Mapa de navegación<a name="navmap"/>
 
