@@ -504,6 +504,18 @@ Responsabilidades del equipo de diseño
 | Fase 4  | Presentación Proyecto Final| 30/10/2021|
 
 # ` `Plan de Pruebas<a name="pruebas"/>
+
+|**NOMBRE**|**Iniciar sesión**|PRUEBAS|**P1**|
+| :- | :- | :- | :- |
+|**PROPÓSITO**|Verificar si la integridad de los datos y la seguridad del login del sistema.|
+|**PRERREQUISITOS**|- Haber creado un usuario para pruebas|
+|**UBICACIÓN**|Base de datos MySQL y módulo de login del sistema|
+|**ENTRADA**|<p>- Creación o Modificación de algún requerimiento</p><p>- Datos solicitados del historial</p><p>&emsp;- Responsable</p><p>&emsp;- Justificación</p>|
+|**RESULTADO**|El sistema no me dejo ingresar con datos incorrectos|
+|**PASOS**|<p>1. Ingresar al sistema de login http://localhost/agroveterinaria/login</p><p>2. Ingresar los datos incorrectos</p><p>3. Clic en “modificar”.</p>|
+|**Módulos Asociados**|- Login|
+
+
 |NOMBRE|**Gestion de Usuarios**|PRUEBAS|**P2**|
 | :- | :- | :- | :- |
 |PROPÓSITO|Verificar que si es posible crear, eliminar usuarios.|
