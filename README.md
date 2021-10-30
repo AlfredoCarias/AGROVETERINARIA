@@ -526,7 +526,7 @@ Se realizaron las pruebas de tipo manual e interfaz para la correcta integridad 
 |UBICACIÓN|Base de datos MySQL, pantalla de modulos antes mencionados|
 |ENTRADA|- Seleccionar un requerimiento|
 |	|<p>- Selección de la acción que desea hacer</p><p>&emsp;- Crear</p><p>&emsp;- Eliminar</p><p></p>|
-|RESULTADO|<p>Cambio en la tabla de informacion</p><p></p><p>- (PARA CREAR) La base de datos se encuentra actualizada con el nuevo ingreso</p><p>- ` `(PARA ELIMINAR)La base de datos se encuentra actualizada con la creacion y eliminación del dato. El sistema no genera algunas notificaciones debido al css de la ejecucion pero la integridad de datos se cumple</p>|
+|RESULTADO|<p>Cambio en la tabla de informacion. El sistema no genera algunas notificaciones debido al css de la ejecucion pero la integridad de datos se cumple</p><p></p><p>- (PARA CREAR) La base de datos se encuentra actualizada con el nuevo ingreso</p><p>- ` `(PARA ELIMINAR)La base de datos se encuentra actualizada con la creacion y eliminación del dato. El sistema no genera algunas notificaciones debido al css de la ejecucion pero la integridad de datos se cumple</p>|
 |PASOS|<p>**PARA CREAR**</p><p>1. Visitar la pantalla de usuarios, clientes o roles.</p><p>2. Seleccionar nuevo.</p><p>3. Llenar los datos</p><p>4. Clic en crear.</p><p>**PARA ELIMINAR**</p><p>1. Visitar la pantalla de usuarios.</p><p>2. Seleccionar eliminar.</p><p>3. Clic en “eliminar”.</p><p>4. Clic en “aceptar”</p>|
 |**Módulos Asociados**|- Módulo de reportes|
 
