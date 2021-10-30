@@ -505,10 +505,43 @@ Responsabilidades del equipo de diseño
 
 # ` `Plan de Pruebas<a name="pruebas"/>
 
-| Tipo de Prueba  | Descripción  |
-|---|---|
-| Login de Usuario  | Agroveterinaria  |
-| Desarrollador  | Alfredo Loyo |
+| NOMBRE | **Gestion de Usuarios** | PRUEBAS | **P2** |
+| --- | --- | --- | --- |
+|
+| |
+| PROPÓSITO | Verificarquesiesposiblecrear,eliminarusuarios. |
+| PRERREQUISITOS |
+- Existenrequerimientosenlabasededatos.
+ |
+| UBICACIÓN | BasededatosMySQL,pantalla de usuarios |
+| ENTRADA |
+- Seleccionarunrequerimiento
+ |
+| |
+- Seleccióndelaacciónquedeseahacer
+  - Crearusuario
+  - Eliminarrelación
+
+ |
+| ORÁCULO | Cambioenla tabla de usuarios
+
+- (PARACREAR)Labasededatosseencuentraactualizadaconelnuevousuario
+- (PARAELIMINAR)Labasededatosseencuentraactualizadacon la eliminación delusuario
+ |
+| PASOS | **PARACREAR**
+1. Visitarlapantalladeusuarios.
+2. Seleccionarnuevo.
+3. Llenar los datos
+4. Clicencrear.
+**PARAELIMINAR**
+1. Visitarlapantalladeusuarios.
+2. Seleccionareliminar.
+3. Clicen&quot;eliminar&quot;.
+4. Clic en &quot;aceptar&quot;
+ |
+| **MódulosAsociados** |
+- Módulo de reportes de usuarios
+ |
 
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
 
