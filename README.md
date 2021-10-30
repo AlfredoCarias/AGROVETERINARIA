@@ -500,3 +500,12 @@ Responsabilidades del equipo de diseño
 | Fase 2  |Primera Presentación de Avances Proyecto Final| 02/10/2021|
 | Fase 3  |Segunda Presentación de Avances Proyecto Final| 26/10/2021|
 | Fase 4  | Presentación Proyecto Final| 30/10/2021|
+
+# ` `Temas Relacionados con el Proyecto<a name="temas"/>
+
+* En la capa de interfaz se tomó como referencia el D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.
+![](https://files.catbox.moe/n3dzul.jpg)
+
+* En el entorno de pruebas se tomó en cuenta el tema de Enfoque Estratégico para la ejecución de las pruebas realizadas al sistema.
+![](https://files.catbox.moe/mj9yhl.jpg)
+
