@@ -574,7 +574,7 @@ Se realizaron las pruebas de tipo manual e interfaz para la correcta integridad 
 
 | Tema |  Descripcion|
 |---|---|
-|  UI/UX |  En la [capa de interfaz](#interfaz) se tomó como referencia el tema visto de D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.| 
+|  UI/UX |  En la [capa de interfaz](#ui) se tomó como referencia el tema visto de D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.| 
 | Usabilidad  |El sistema cuenta con un manual de usuario |
 | Servicios REST  |Se utilizo el servicio REST en el sistema para la ejecucion de las funciones de mostra, eliminar y crear, que al momento de no ejecutar ninguna de esas funciones mandara un mensaje de error|
 | Diagramas de Casos de Uso | Se realizaron los [Diagramas de Casos de Uso](#casos)|
