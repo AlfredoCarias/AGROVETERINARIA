@@ -491,6 +491,7 @@ Responsabilidades del equipo de diseño
 |  Sprint#6 30/10/2021	| [Finalizacion Analisis del Sistema](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/8)|![](https://files.catbox.moe/u1wzfe.png)	|
 |  Sprint#6 30/10/2021	| [Desarrollo Notificacion por Correo](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/27)|![](https://files.catbox.moe/5bh5ta.png)	|
 |  Sprint#6 30/10/2021	| [Desarrollo de Compras ](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/28)|![](https://files.catbox.moe/essi1u.png)	|
+|  Sprint#6 30/10/2021	| [Herramientas de apoyo](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/35)|![](https://files.catbox.moe/x1ella.png)	|
 |  Sprint#6 30/10/2021	| [Presentacion Final del Proyecto](https://github.com/AlfredoCarias/AGROVETERINARIA/issues/34)|![](https://files.catbox.moe/qdj10q.png)	|
 
 
