@@ -525,19 +525,49 @@ Se realizaron las pruebas de tipo manual e interfaz para la correcta integridad 
 |UBICACIÓN|Base de datos MySQL, pantalla de modulos antes mencionados|
 |ENTRADA|- Seleccionar un requerimiento|
 |	|<p>- Selección de la acción que desea hacer</p><p>&emsp;- Crear</p><p>&emsp;- Eliminar</p><p></p>|
-|ORÁCULO|<p>Cambio en la tabla de informacion</p><p></p><p>- (PARA CREAR) La base de datos se encuentra actualizada con el nuevo ingreso</p><p>- ` `(PARA ELIMINAR)La base de datos se encuentra actualizada con la eliminación del dato</p>|
+|RESULTADO|<p>Cambio en la tabla de informacion</p><p></p><p>- (PARA CREAR) La base de datos se encuentra actualizada con el nuevo ingreso</p><p>- ` `(PARA ELIMINAR)La base de datos se encuentra actualizada con la creacion y eliminación del dato. El sistema no genera algunas notificaciones de la ejecucion pero la integridad se cumple</p>|
 |PASOS|<p>**PARA CREAR**</p><p>1. Visitar la pantalla de usuarios, clientes o roles.</p><p>2. Seleccionar nuevo.</p><p>3. Llenar los datos</p><p>4. Clic en crear.</p><p>**PARA ELIMINAR**</p><p>1. Visitar la pantalla de usuarios.</p><p>2. Seleccionar eliminar.</p><p>3. Clic en “eliminar”.</p><p>4. Clic en “aceptar”</p>|
 |**Módulos Asociados**|- Módulo de reportes|
 
-|NOMBRE|**Generar Reportes en PDF**|PRUEBAS|**P18**|
+|NOMBRE|**Generar Reportes en PDF**|PRUEBAS|**P3**|
 | :- | :- | :- | :- |
 |PROPÓSITO|<p>Verificar que la generación de reportes se realiza con la información</p><p>correspondiente al proyecto.</p>|
 |PRERREQUISITOS|<p>- Requerimientos previamente creados</p><p></p>|
 |UBICACIÓN|Base de datos MySQL y Pantalla Reportes|
 |ENTRADA|Reporte seleccionado.|
-|ORÁCULO|El usuario puede acceder al archivo de PDF, debe contener la misma información que se  muestra en la aplicación.|
+|RESULTADO|El usuario puede acceder al archivo de PDF, debe contener la misma información que se  muestra en la aplicación.|
 |PASOS|<p>1. Visitar la pantalla de “Reportes”.</p><p>**GENERAL**</p><p>2. Seleccionar el tipo de reporte</p><p>3. Esperar que abra el archivo.</p><p>4. Verificar información (que coincida con la que se muestra en el sistema.</p><p>5. Guardar o imprimir el archivo</p><p></p><p>**REQUERIMIENTOS SELECCIONADOS**</p><p>2. Seleccionar los requerimientos que desea en el informe.</p><p>3. Clic en “Guardar”.</p><p>4. Esperar que abra el archivo.</p><p>5. Verificar información (que coincida con la que se muestra en el sistema.</p><p></p><p></p>|
 |**Módulos Asociados**|- Módulo de reportes|
+
+|**NOMBRE**|**Venta de producto**|PRUEBAS|**P4**|
+| :- | :- | :- | :- |
+|**PROPÓSITO**|Verificar la integridad de los datos|
+|**PRERREQUISITOS**|- Contar con clients y productos para la prueba|
+|**UBICACIÓN**|Base de datos MySQL y módulo de venta|
+|**ENTRADA**|<p>- Seleccionar un cliente</p><p>- Seleccionar los productos</p><p>- Ingresar cantidad a comprar</p><p>- Clic en “Agregar”</p><p>- Clic en “Guardar”</p><p></p>|
+|**RESULTADO**|El sistema genero la venta y el stock del producto se resto|
+|**PASOS**|<p>1. Ingresar en el modulo venta</p><p>2. Llenar los campos de datos</p><p>3. Agregar product y cantidad</p><p>4. Guardar la venta</p>|
+|**Módulos Asociados**|<p>- Venta</p><p>- Reportes</p>|
+
+|**NOMBRE**|**Compra de producto**|PRUEBAS|**P5**|
+| :- | :- | :- | :- |
+|**PROPÓSITO**|Verificar la integridad de los datos|
+|**PRERREQUISITOS**|- Contar con clients y productos para la prueba|
+|**UBICACIÓN**|Base de datos MySQL y módulo de venta|
+|**ENTRADA**|<p>- Seleccionar el producto</p><p>- Ingresar cantidad a comprar</p><p>- Clic en “Guardar”</p><p></p>|
+|**RESULTADO**|El Sistema genero la compra y se sumo la cantidad al stock del producto|
+|**PASOS**|<p>1. Ingresar en el modulo compra</p><p>2. Llenar los campos de datos</p><p>3. Agregar product y cantidad</p><p>4. Guardar la compra</p>|
+|**Módulos Asociados**|<p>- Compra</p><p>- Reportes</p>|
+
+|**NOMBRE**|**Notificacion**|PRUEBAS|**P6**|
+| :- | :- | :- | :- |
+|**PROPÓSITO**|Verificar el envoi de la notificacion|
+|**PRERREQUISITOS**|- Ninguno|
+|**UBICACIÓN**|Modulo notificacion|
+|**ENTRADA**|<p>- Ingresar un correo</p><p>- Clic en “Enviar”</p><p></p>|
+|**RESULTADO**|El Sistema genero el correo y se lo envoi al usuario|
+|**PASOS**|<p>1. Ingresar en el modulo notificaion</p><p>2. Llenar los campos de datos</p><p>3. Enviar la notifiacion</p>|
+|**Módulos Asociados**|- Notificacion|
 
 
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
