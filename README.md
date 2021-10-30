@@ -504,9 +504,9 @@ Responsabilidades del equipo de diseño
 
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
 
-* En la capa de interfaz se tomó como referencia el D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.
+* En la capa de interfaz se tomó como referencia el tema visto de D.C.U (Diseño Centrado en el Usuario) aplicando la simplicidad y facilidad de uso para el usuario.
 ![](https://files.catbox.moe/n3dzul.jpg)
 
-* En el entorno de pruebas se tomó en cuenta el tema de Enfoque Estratégico para la ejecución de las pruebas realizadas al sistema.
+* En el entorno de pruebas se tomó en cuenta el tema visto de Enfoque Estratégico para la ejecución de las pruebas realizadas al sistema.
 ![](https://files.catbox.moe/mj9yhl.jpg)
 
