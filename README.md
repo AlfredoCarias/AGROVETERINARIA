@@ -504,44 +504,16 @@ Responsabilidades del equipo de diseño
 | Fase 4  | Presentación Proyecto Final| 30/10/2021|
 
 # ` `Plan de Pruebas<a name="pruebas"/>
-
-| NOMBRE | **Gestion de Usuarios** | PRUEBAS | **P2** |
-| --- | --- | --- | --- |
-|
-| |
-| PROPÓSITO | Verificarquesiesposiblecrear,eliminarusuarios. |
-| PRERREQUISITOS |
-- Existenrequerimientosenlabasededatos.
- |
-| UBICACIÓN | BasededatosMySQL,pantalla de usuarios |
-| ENTRADA |
-- Seleccionarunrequerimiento
- |
-| |
-- Seleccióndelaacciónquedeseahacer
-  - Crearusuario
-  - Eliminarrelación
-
- |
-| ORÁCULO | Cambioenla tabla de usuarios
-
-- (PARACREAR)Labasededatosseencuentraactualizadaconelnuevousuario
-- (PARAELIMINAR)Labasededatosseencuentraactualizadacon la eliminación delusuario
- |
-| PASOS | **PARACREAR**
-1. Visitarlapantalladeusuarios.
-2. Seleccionarnuevo.
-3. Llenar los datos
-4. Clicencrear.
-**PARAELIMINAR**
-1. Visitarlapantalladeusuarios.
-2. Seleccionareliminar.
-3. Clicen&quot;eliminar&quot;.
-4. Clic en &quot;aceptar&quot;
- |
-| **MódulosAsociados** |
-- Módulo de reportes de usuarios
- |
+|NOMBRE|**Gestion de Usuarios**|PRUEBAS|**P2**|
+| :- | :- | :- | :- |
+|PROPÓSITO|Verificar que si es posible crear, eliminar usuarios.|
+|PRERREQUISITOS|- Existen requerimientos en la base de datos.|
+|UBICACIÓN|Base de datos MySQL, pantalla de usuarios|
+|ENTRADA|- Seleccionar un requerimiento|
+|	|<p>- Selección de la acción que desea hacer</p><p>&emsp;- Crear usuario</p><p>&emsp;- Eliminar relación</p><p></p>|
+|ORÁCULO|<p>Cambio en la tabla de usuarios</p><p></p><p>- (PARA CREAR) La base de datos se encuentra actualizada con el nuevo usuario</p><p>- ` `(PARA ELIMINAR)La base de datos se encuentra actualizada con la eliminación del usuario</p>|
+|PASOS|<p>**PARA CREAR**</p><p>1. Visitar la pantalla de usuarios.</p><p>2. Seleccionar nuevo.</p><p>3. Llenar los datos</p><p>4. Clic en crear.</p><p>**PARA ELIMINAR**</p><p>1. Visitar la pantalla de usuarios.</p><p>2. Seleccionar eliminar.</p><p>3. Clic en “eliminar”.</p><p>4. Clic en “aceptar”</p>|
+|**Módulos Asociados**|- Módulo de reportes de usuarios|
 
 # ` `Temas Relacionados con el Proyecto<a name="temas"/>
 
